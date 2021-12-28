@@ -127,5 +127,5 @@
 4. **Berechnung minimaler c-Repräsentationen mittels ganzzahliger linearer Programmierung** (Sebastian Sewarte, bachelor thesis, 2016)
 3. **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Christian Riest, bachelor thesis, 2016)
 2. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, master thesis, 2015)
-1. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, bachelor thesis, 2015)
+0. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, bachelor thesis, 2015)
 {: reversed="reversed"}
