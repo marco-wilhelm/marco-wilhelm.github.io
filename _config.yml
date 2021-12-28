@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 markdown: kramdown
 title: Marco Wilhelm
 github: is\_project\_page:false
