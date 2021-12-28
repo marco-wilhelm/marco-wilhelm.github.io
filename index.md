@@ -22,64 +22,64 @@ Misc
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
    _arXiv:2110.15214 [cs.AI], 2021_
 0. **A Brief Introduction Into Activation-Based Conditional Inference**
-   Marco Wilhelm, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
    _Proceedings of the 7th Workshop on Formal and Cognitive Reasoning (FCR), 2021_
 0. **Predicting Human Responses to Syllogism Tasks Following the Principle of Maximum Entropy**
-   Marco Wilhelm and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the Entropy 2021 Conference, 2021_
 0. **Focused Inference and System P**
-   Marco Wilhelm and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the 35th Conference on Artificial Intelligence (AAAI), 2021_
 0. **Probabilistic Belief Fusion at Maximum Entropy by First-Order Embedding**
-   Marco Wilhelm and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the 18th International Workshop on Non-Monotonic Reasoning (NMR), 2020_
 0. **Context-Based Inferences from Probabilistic Conditionals with Default Negation at Maximum Entropy**
-   Marco Wilhelm and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the 33rd International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2020_
 0. **The Complexity of the Consistency Problem in the Probabilistic Description Logic ALC^ME**
-   Franz Baader, Andreas Ecke, Gabriele Kern-Isberner, and Marco Wilhelm.
+   Franz Baader, Andreas Ecke, Gabriele Kern-Isberner, and <ins>Marco Wilhelm</ins>.
    _Proceedings of the 12th International Symposium on Frontiers of Combining Systems (FroCoS), 2019_
 0. **Maximum Entropy Calculations for the Probabilistic Description Logic ALC^ME**
-   Marco Wilhelm and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Description Logic, Theory Combination, and All That. Springer, 2019_
 0. **Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks**
-   Marco Wilhelm, Gabriele Kern-Isberner, Marc Finthammer, and Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Marc Finthammer, and Christoph Beierle.
    _Proceedings of the 32nd International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2019_
 0. **Counting Strategies for the Probabilistic Description Logic ALC^ME Under the Principle of Maximum Entropy**
-   Marco Wilhelm, Gabriele Kern-Isberner, Andreas Ecke, and Franz Baader.
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Andreas Ecke, and Franz Baader.
    _Proceedings of the 16th Edition of the European Conference on Logics in Artificial Intelligence (JELIA), 2019_
 0. **Evaluating Reactive ASP by Formal Belief Revision**
-   Jonas Philipp Haldimann, Marco Wilhelm, and Gabriele Kern-Isberner.
+   Jonas Philipp Haldimann, <ins>Marco Wilhelm</ins>, and Gabriele Kern-Isberner.
    _Workshop on Hybrid Reasoning and Learning (HRL) at the 16th International Conference on Principles of Knowledge Representation and Reasoning (KR), 2018_
 0. **A Generalized Iterative Scaling Algorithm for Maximum Entropy Model Computations Respecting Probabilistic Independencies**
-   Marco Wilhelm, Gabriele Kern-Isberner, Marc Finthammer, and Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Marc Finthammer, and Christoph Beierle.
    _Proceedings of the 10th International Symposium on Foundations of Information and Knowledge Systems (FOIKS), 2018_
 0. **Drawing Inferences Under Maximum Entropy From Relational Probabilistic Knowledge Using Group Theory**
-   Gabriele Kern-Isberner, Marco Wilhelm, and Christoph Beierle.
+   Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>, and Christoph Beierle.
    _Infinite Group Theory: From the Past to the Future. World Scientific, 2018_
 0. **Basic Independence Results for Maximum Entropy Reasoning Based on Relational Conditionals**
-   Marco Wilhelm, Gabriele Kern-Isberner, and Andreas Ecke.
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, and Andreas Ecke.
    _Proceedings of the 3rd Global Conference on Artificial Intelligence (GCAI), 2017_
 0. **First-Order Typed Model Counting for Probabilistic Connditional Reasoning at Maximum Entropy**
-   Marco Wilhelm, Marc Finthammer, Gabriele Kern-Isberner, and Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Marc Finthammer, Gabriele Kern-Isberner, and Christoph Beierle.
    _Proceedings of the 11th International Conference on Scalable Uncertainty Management (SUM), 2017_
 0. **A Semantics for Conditionals with Default Negation**
-   Marco Wilhelm, Christian Eichhorn, Richard Niland, and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins>, Christian Eichhorn, Richard Niland, and Gabriele Kern-Isberner.
    _Proceedings of the 14th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU), 2017_
 0. **Typed Model Counting and its Application to Probabilistic Conditional Reasoning at Maximum Entropy**
-   Marco Wilhelm and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2017_
 0. **Probabilistic knowledge representation using the principle of maximum entropy and Gröbner basis theory**
-   Gabriele Kern-Isberner, Marco Wilhelm, and Christoph Beierle.
+   Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>, and Christoph Beierle.
    _Annals of Mathematics and Artificial Intelligence 79: pp. 163-179, 2017_
 0. **Propositional Probabilistic Reasoning at Maximum Entropy Modulo Theories**
-   Marco Wilhelm, Gabriele Kern-Isberner, and Andreas Ecke.
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, and Andreas Ecke.
    _Proceedings of the 29th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2016_
 0. **A Novel Methodology for Processing Probabilistic Knowledge Bases Under Maximum Entropy**
-   Gabriele Kern-Isberner, Marco Wilhelm, and Christoph Beierle.
+   Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>, and Christoph Beierle.
    _Proceedings of the 27th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2014_
 0. **Probabilistic Knowledge Representation Using Gröbner Basis Theory**
-   Gabriele Kern-Isberner, Marco Wilhelm, and Christoph Beierle.
+   Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>, and Christoph Beierle.
    _13th International Symposium on Artificial Intelligence and Mathematics (ISAIM), 2014_
 {: reversed="reversed"}
 
