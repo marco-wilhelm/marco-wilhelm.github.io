@@ -1,20 +1,37 @@
-### Research Interests
+## Dipl. Math. Marco Wilhelm
+### Research Assistant
 
-Activities
+**TU Dortmund University**\
+Department of Computer Science\
+Otto-Hahn-Str. 12\
+Room 3.015\
+44227 Dortmund\
+\
+**Email:** marco.wilhelm@tu-dortmund.de\
+**Phone:** +49-231-755-6520 
 
-    Publicity Chair of KR 2022
-    Local Organizer of FOIKS 2020
-    Local Organizer of KI 2017
-    Program Committee Member of AAAI 2021, ECSQARU 2021, AAAI 2022, KR 2022
-    Reviews for (in alphabetical order): AMAI, Fuzzy Sets and Systems (journals); AAAI, ECSQARU, IJCAI, KR, NMR, PRICAI (conferences and workshops)
+## Research Interests
 
-Misc
+> Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy
 
-    Nominee for the FLAIRS 2019 Best Student Paper
+### Research Projects
 
+0. DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems, subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
+{: reversed="reversed"}
 
+### Scientific Service
 
-### Service
+0. Publicity Chair of [KR 2022](https://kr2022.cs.tu-dortmund.de)
+0. Local Organizer of [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de)
+0. Local Organizer of [KI 2017](https://ki2017.tu-dortmund.de)
+0. Program Committee Member of 
+   [KR 2022](https://kr2022.cs.tu-dortmund.de), 
+   [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
+   [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
+   [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
+0. Member of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (since 2015)
+0. Reviews for AMAI, Fuzzy Sets and Systems (journals), AAAI, ECSQARU, IJCAI, KR (conferences), NMR (workshop)
+{: reversed="reversed"}
 
 ## Publications
 
@@ -209,4 +226,9 @@ Misc
 0. **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Christian Riest, bachelor thesis, 2016)
 0. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, master thesis, 2015)
 0. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, bachelor thesis, 2015)
+{: reversed="reversed"}
+
+## Misc
+
+0. Nominee for the FLAIRS 2019 Best Student Paper
 {: reversed="reversed"}
