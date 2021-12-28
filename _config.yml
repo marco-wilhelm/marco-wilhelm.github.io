@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
 github: is\_project\_page:false
+name: Marco Wilhelm
 title: Marco Wilhelm
 description: Personal website of Marco Wilhelm
-logo: marco_wilhelm.png
+logo: wilhelm.jpg
