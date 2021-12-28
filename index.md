@@ -116,15 +116,16 @@
 
 ## Co-Supervised Theses
 
-- **Algorithmic Computation of c-Representations in LEG-Networks** (Lorenzo Perez Veenstra, master thesis, 2021)
-- **ASP-Forgetting-Methoden für Rangfunktionen** (Patrick Miß, bachelor thesis, 2021)
-- **Bestimmung der Äquivalenzklassen möglicher Welten mit Hilfe des Typed Model Countings** (Franz Leonhard Nentwich, bachelor thesis, 2018)
-- **Revisionen von Rangfunktionen mit Meta-Informationen** (Christian Riest, master thesis, 2018)
-- **Probabilistische Wissenskontraktion mit Hilfe von minimaler Relativentropie** (Arthur Franke, bachelor thesis, 2017)
-- **Reaktive Antwortmengenprogrammierung - formale Eigenschaften und logistische Anwendung** (Jonas Philipp Haldimann, bachelor thesis, 2017)
-- **Beschreibungslogische Ontologien für autonome Fahrzeuge in der Logistik** (Daniel Gadalla, bachelor thesis, 2017)
-- **Wissensverarbeitung und Wissensrevision in der Only-Believing Logic** (Yannic Twardokus, bachelor thesis, 2016)
-- **Berechnung minimaler c-Repräsentationen mittels ganzzahliger linearer Programmierung** (Sebastian Sewarte, bachelor thesis, 2016)
-- **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Christian Riest, bachelor thesis, 2016)
-- **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, master thesis, 2015)
-- **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, bachelor thesis, 2015)
+12. **Algorithmic Computation of c-Representations in LEG-Networks** (Lorenzo Perez Veenstra, master thesis, 2021)
+11. **ASP-Forgetting-Methoden für Rangfunktionen** (Patrick Miß, bachelor thesis, 2021)
+10. **Bestimmung der Äquivalenzklassen möglicher Welten mit Hilfe des Typed Model Countings** (Franz Leonhard Nentwich, bachelor thesis, 2018)
+9. **Revisionen von Rangfunktionen mit Meta-Informationen** (Christian Riest, master thesis, 2018)
+8. **Probabilistische Wissenskontraktion mit Hilfe von minimaler Relativentropie** (Arthur Franke, bachelor thesis, 2017)
+7. **Reaktive Antwortmengenprogrammierung - formale Eigenschaften und logistische Anwendung** (Jonas Philipp Haldimann, bachelor thesis, 2017)
+6. **Beschreibungslogische Ontologien für autonome Fahrzeuge in der Logistik** (Daniel Gadalla, bachelor thesis, 2017)
+5. **Wissensverarbeitung und Wissensrevision in der Only-Believing Logic** (Yannic Twardokus, bachelor thesis, 2016)
+4. **Berechnung minimaler c-Repräsentationen mittels ganzzahliger linearer Programmierung** (Sebastian Sewarte, bachelor thesis, 2016)
+3. **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Christian Riest, bachelor thesis, 2016)
+2. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, master thesis, 2015)
+1. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, bachelor thesis, 2015)
+{: reversed="reversed"}
