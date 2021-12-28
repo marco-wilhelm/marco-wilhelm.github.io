@@ -4,8 +4,9 @@
 **TU Dortmund University**\
 Department of Computer Science\
 Otto-Hahn-Str. 12\
-Room 3.015\
 44227 Dortmund\
+\
+**Room:** 3.015 (consultation hour by appointment)\
 \
 **Email:** marco.wilhelm@tu-dortmund.de\
 **Phone:** +49-231-755-6520 
@@ -16,7 +17,9 @@ Room 3.015\
 
 ### Research Projects
 
-0. DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems, subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
+0. DFG Research Unit 1513 on **Hybrid Reasoning for Intelligent Systems**, 
+   subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
+   ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
 {: reversed="reversed"}
 
 ### Scientific Service
@@ -107,7 +110,7 @@ Room 3.015\
    _North Miami Beach, Florida, USA, and virtual (May 17, 2021)_
 0. **Activation-Based Conditional Inference and How to Forget and Remember**
    Journal Club of Working Group Information Engineering, TU Dortmund.
-   _Dortmund, Germany (March 24, 2021); with Diana Howey_
+   _Dortmund, Germany (March 24, 2021); joint talk with Diana Howey_
 0. **Focused Inference and System P**
    35th Conference on Artificial Intelligence (AAAI 2021).
    _Virtual Conference (February 2-9, 2021)_
@@ -195,7 +198,7 @@ Room 3.015\
 {: reversed="reversed"}
 
 ## Teaching Activities 
-### (at the Department of Computer Science, TU Dortmund)
+**(at the Department of Computer Science, TU Dortmund)**
 
 0. **Darstellung, Verarbeitung und Erwerb von Wissen** (excersises, winter term 2021/22)
 0. **Mathematik für Informatiker II** (excercises, summer term 2021)
