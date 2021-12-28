@@ -19,7 +19,7 @@ Misc
 ## Publications
 
 0. **Conditional Inference and Activation of Knowledge Entities in ACT-R**
-   Marco Wilhelm, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
+   <u>Marco Wilhelm</u>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
    _arXiv:2110.15214 [cs.AI], 2021_
 0. **A Brief Introduction Into Activation-Based Conditional Inference**
    Marco Wilhelm, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
