@@ -1,7 +1,7 @@
 ## Dipl. Math. Marco Wilhelm
 ### Research Assistant
 
-**TU Dortmund University**\
+**TU Dortmund**
 Department of Computer Science\
 Otto-Hahn-Str. 12\
 44227 Dortmund\
