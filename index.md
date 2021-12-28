@@ -230,5 +230,6 @@ Room 3.015\
 
 ## Misc
 
-0. Nominee for the FLAIRS 2019 Best Student Paper
+0. **Nominee for the FLAIRS 2019 Best Student Paper** (TOP3 paper, title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
+0. **Award from the German Physical Society (DFG)** (for excellent performence in physics in the Abitur in 2015)
 {: reversed="reversed"}
