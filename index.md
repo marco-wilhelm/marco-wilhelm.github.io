@@ -18,23 +18,22 @@ Germany\
 
 ### Research Projects
 
-0. DFG Research Unit 1513 on **Hybrid Reasoning for Intelligent Systems**, 
-   subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
+0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems**, 
+   Subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
 {: reversed="reversed"}
 
 ### Scientific Service
 
-0. Publicity Chair of [KR 2022](https://kr2022.cs.tu-dortmund.de)
-0. Local Organizer of [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de)
-0. Local Organizer of [KI 2017](https://ki2017.tu-dortmund.de)
-0. Program Committee Member of 
+0. **Publicity Chair** of [KR 2022](https://kr2022.cs.tu-dortmund.de)
+0. **Local Organizer** of [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), [KI 2017](https://ki2017.tu-dortmund.de)
+0. **Program Committee Member** of 
    [KR 2022](https://kr2022.cs.tu-dortmund.de), 
    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
-0. Member of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (since 2015)
-0. Reviews for AMAI, Fuzzy Sets and Systems (journals), AAAI, ECSQARU, IJCAI, KR (conferences), NMR (workshop)
+0. **Member of _Qualitätsverbesserungskommission (QUEST)_** at the Department of Computer Science, TU Dortmund (since 2015)
+0. **Reviewer** for AMAI, Fuzzy Sets and Systems (journals), AAAI, ECSQARU, IJCAI, KR (conferences), NMR (workshop)
 {: reversed="reversed"}
 
 ## Publications
