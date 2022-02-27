@@ -2,38 +2,55 @@
 ### Research Assistant
 
 **TU Dortmund**\
-Department of Computer Science\
-Otto-Hahn-Str. 12\
+Department of Statistics\
+Martin-Schmeißer-Weg 13\
 44227 Dortmund\
 Germany\
 \
-**Room:** 3.015 (consultation hour by appointment)\
-\
+<!--**Room:** 3.015 (consultation hour by appointment)\-->
 **Email:** marco.wilhelm@tu-dortmund.de\
-**Phone:** +49-231-755-6520 
+<!--**Phone:** +49-231-755-6520 -->
+
 
 ## Research Interests
 
-> Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy
+> Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Probabilistic Inference > Statistical Relational AI > Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy
 
-### Research Projects
+> Cognitive Logics > Plausible Reasoning and Conditionals 
 
+## Participation in Research Projects
+
+0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
+   Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/), since 2022)
 0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems**, 
-   Subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
+   Member of Subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
 {: reversed="reversed"}
 
-### Scientific Service
+## Scientific Service and Memberships
 
-0. **Publicity Chair** of [KR 2022](https://kr2022.cs.tu-dortmund.de)
-0. **Local Organizer** of [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), [KI 2017](https://ki2017.tu-dortmund.de)
+0. **Member** of 
+   [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) (since 2022)
+0. **Publicity Chair** of 
+   [KR 2022](https://kr2022.cs.tu-dortmund.de)
+0. **Local Organizer** of 
+   [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), 
+   [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
    [KR 2022](https://kr2022.cs.tu-dortmund.de), 
    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
-0. **Member of _Qualitätsverbesserungskommission (QUEST)_** at the Department of Computer Science, TU Dortmund (since 2015)
+0. **Member** of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
 0. **Reviewer** for AMAI, Fuzzy Sets and Systems (journals), AAAI, ECSQARU, IJCAI, KR (conferences), NMR (workshop)
+{: reversed="reversed"}
+
+## Former Positions and Education
+
+0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
+   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/) (from 2012 to 2022)
+0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015)
+0. **Student** of mathematics at TU Dortmund (from 2006 to 2012, Diploma degree in 2012, thesis: _"Der Gröbner-Walk"_)
 {: reversed="reversed"}
 
 ## Publications
