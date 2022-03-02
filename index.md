@@ -8,7 +8,8 @@ Martin-Schmeißer-Weg 13\
 Germany\
 \
 **Room:** 206 (consultation hour by appointment)
-**Email:** marco.wilhelm@tu-dortmund.de\
+\
+**Email:** marco.wilhelm@tu-dortmund.de
 <!--**Phone:** +49-231-755-6520 -->
 
 
