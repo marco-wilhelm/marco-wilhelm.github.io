@@ -1,6 +1,6 @@
 ## TU Dortmund
 
-**Department of Statistics**\
+**Department of Statistics**
 
 Martin-Schmeißer-Weg 13\
 44227 Dortmund\
