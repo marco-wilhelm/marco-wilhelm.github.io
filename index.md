@@ -1,17 +1,13 @@
-## Dipl. Math. Marco Wilhelm
-### Research Assistant
+## TU Dortmund
 
-**TU Dortmund**\
-Department of Statistics\
+**Department of Statistics**
 Martin-Schmeißer-Weg 13\
 44227 Dortmund\
 Germany\
 \
-**Room:** 206 (consultation hour by appointment)
-\
-**Email:** marco.wilhelm@tu-dortmund.de
+**Room:** 206 (consultation hour by appointment)\
+**Email:** marco.wilhelm@tu-dortmund.de\
 **Phone:** +49-231-755-4992
-
 
 ## Research Interests
 
@@ -19,11 +15,25 @@ Germany\
 
 > Cognitive Logics > Plausible Reasoning and Conditionals 
 
-## Participation in Research Projects
+## Positions
+
+0. **Research Assistant** at the Department of Statistics, TU Dortmund,
+   research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html) (since Mar 2022)
+0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
+   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/) (from Oct 2012 to Feb 2022)
+{: reversed="reversed"}
+
+## Education
+
+0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015)
+0. **Student** of mathematics at TU Dortmund (from 2006 to 2012, Diploma degree in 2012, thesis: _"Der Gröbner-Walk"_)
+{: reversed="reversed"}
+
+## Research Projects
 
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
    Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/), since 2022)
-0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems**, 
+0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
    Member of Subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
 {: reversed="reversed"}
@@ -44,14 +54,6 @@ Germany\
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 0. **Member** of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
 0. **Reviewer** for AMAI, Fuzzy Sets and Systems (journals), AAAI, ECSQARU, IJCAI, KR (conferences), NMR (workshop)
-{: reversed="reversed"}
-
-## Former Positions and Education
-
-0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
-   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/) (from 2012 to 2022)
-0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015)
-0. **Student** of mathematics at TU Dortmund (from 2006 to 2012, Diploma degree in 2012, thesis: _"Der Gröbner-Walk"_)
 {: reversed="reversed"}
 
 ## Publications
