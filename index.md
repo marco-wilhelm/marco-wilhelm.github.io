@@ -43,9 +43,9 @@ Germany\
 
 0. **Member** of 
    [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) (since 2022)
-0. **Publicity Chair** of 
+0. **Publicity Co-Chair** of 
    [KR 2022](https://kr2022.cs.tu-dortmund.de)
-0. **Local Organizer** of 
+0. **Local Co-Organizer** of 
    [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), 
    [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
