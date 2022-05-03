@@ -54,7 +54,18 @@ Germany\
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 0. **Member** of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
-0. **Reviewer** for AMAI, Fuzzy Sets and Systems (journals), AAAI, ECSQARU, IJCAI, KR (conferences), NMR (workshop)
+0. **Reviewer** for 
+   AMAI - Annals of Mathematics and Artificial Intelligence, 
+   Fuzzy Sets and Systems,
+   IJAR - International Journal of Approximate Reasoning
+   (journals), 
+   AAAI, 
+   ECSQARU, 
+   IJCAI, 
+   KR 
+   (conferences), 
+   NMR 
+   (workshop)
 {: reversed="reversed"}
 
 ## Publications
