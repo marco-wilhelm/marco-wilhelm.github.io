@@ -33,7 +33,7 @@ Germany\
 ## Research Projects
 
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
-   Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/), since 2022)
+   Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/), since Mar 2022)
 0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
    Member of Subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
@@ -55,17 +55,18 @@ Germany\
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 0. **Member** of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
 0. **Reviewer** for 
-   AMAI - Annals of Mathematics and Artificial Intelligence, 
+   _JOURNALS:_
+   Annals of Mathematics and Artificial Intelligence (AMAI), 
    Fuzzy Sets and Systems,
-   IJAR - International Journal of Approximate Reasoning
-   (journals), 
+   International Journal of Approximate Reasoning (IJAR),
+   Journal of Applied Logics (JAR),
+   _CONFERENCES:_ 
    AAAI, 
    ECSQARU, 
    IJCAI, 
-   KR 
-   (conferences), 
+   KR,
+   _WORKSHOPS:_
    NMR 
-   (workshop)
 {: reversed="reversed"}
 
 ## Publications
