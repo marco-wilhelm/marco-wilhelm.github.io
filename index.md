@@ -71,6 +71,9 @@ Germany\
 
 ## Publications
 
+0. **Integrating Cognitive Principles From ACT-R Into Probabilistic Conditional Reasoning by Taking the Example of Maximum Entropy Reasoning**
+   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
+   _Proceedings of the 35th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2022_
 0. **Conditional Inference and Activation of Knowledge Entities in ACT-R**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
    _arXiv:2110.15214 [cs.AI], 2021_
@@ -138,6 +141,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **Integrating Cognitive Principles From ACT-R Into Probabilistic Conditional Reasoning by Taking the Example of Maximum Entropy Reasoning**
+   35th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2022).
+   _Jensen Beach, Florida, USA, and virtual (May 17, 2022)_ 
 0. **Context-Based Inferences from Probabilistic Conditionals with Default Negation at Maximum Entropy**
    34th International Conference of the Florida Artificial Intelligence Research Society (FLAIRS 2021).
    _North Miami Beach, Florida, USA, and virtual (May 17, 2021)_
@@ -233,35 +239,36 @@ Germany\
 ## Teaching Activities 
 **(at the Department of Computer Science, TU Dortmund)**
 
-0. **Darstellung, Verarbeitung und Erwerb von Wissen** (excersises, winter term 2021/22)
-0. **Mathematik für Informatiker II** (excercises, summer term 2021)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, winter term 2020/21)
-0. **Commonsense Reasoning** (exercises, summer term 2020)
-0. **Commonsense Reasoning** (exercises, summer term 2019)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, winter term 2018/19)
-0. **Grundbegriffe der Theoretischen Informatik** (exercises, summer term 2018)
-0. **Probabilistische Beschreibungslogiken** (seminar, winter term 2014/15)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, winter term 2014/15)
-0. **Mathematik für Informatiker II** (exercises, summer term 2014)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, winter term 2013/14)
-0. **Mathematik für Informatiker II** (exercises + tutorial, summer term 2013)
-0. **Mathematik für Informatiker I** (exercises + tutorial, winter term 2012/13)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen** (excersises, in German, winter term 2021/22)
+0. **Mathematik für Informatiker II** (excercises, in German, summer term 2021)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, in German, winter term 2020/21)
+0. **Commonsense Reasoning** (exercises, in German, summer term 2020)
+0. **Commonsense Reasoning** (exercises, in German, summer term 2019)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, in German, winter term 2018/19)
+0. **Grundbegriffe der Theoretischen Informatik** (exercises, in German, summer term 2018)
+0. **Probabilistische Beschreibungslogiken** (seminar, in German, winter term 2014/15)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, in German, winter term 2014/15)
+0. **Mathematik für Informatiker II** (exercises, in German, summer term 2014)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, in German, winter term 2013/14)
+0. **Mathematik für Informatiker II** (exercises + tutorial, in German, summer term 2013)
+0. **Mathematik für Informatiker I** (exercises + tutorial, in German, winter term 2012/13)
 {: reversed="reversed"}
 
 ## Co-Supervised Theses
 
-0. **Algorithmic Computation of c-Representations in LEG-Networks** (Lorenzo Perez Veenstra, master thesis, 2021)
-0. **ASP-Forgetting-Methoden für Rangfunktionen** (Patrick Miß, bachelor thesis, 2021)
-0. **Bestimmung der Äquivalenzklassen möglicher Welten mit Hilfe des Typed Model Countings** (Franz Leonhard Nentwich, bachelor thesis, 2018)
-0. **Revisionen von Rangfunktionen mit Meta-Informationen** (Christian Riest, master thesis, 2018)
-0. **Probabilistische Wissenskontraktion mit Hilfe von minimaler Relativentropie** (Arthur Franke, bachelor thesis, 2017)
-0. **Reaktive Antwortmengenprogrammierung - formale Eigenschaften und logistische Anwendung** (Jonas Philipp Haldimann, bachelor thesis, 2017)
-0. **Beschreibungslogische Ontologien für autonome Fahrzeuge in der Logistik** (Daniel Gadalla, bachelor thesis, 2017)
-0. **Wissensverarbeitung und Wissensrevision in der Only-Believing Logic** (Yannic Twardokus, bachelor thesis, 2016)
-0. **Berechnung minimaler c-Repräsentationen mittels ganzzahliger linearer Programmierung** (Sebastian Sewarte, bachelor thesis, 2016)
-0. **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Christian Riest, bachelor thesis, 2016)
-0. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, master thesis, 2015)
-0. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, bachelor thesis, 2015)
+0. **Induktives Lernen von ASP-Regeln mit Pruning** (Rabina Borici, Bachelor thesis, in German, 2022)
+0. **Algorithmic Computation of c-Representations in LEG-Networks** (Lorenzo Perez Veenstra, Master thesis, 2021)
+0. **ASP-Forgetting-Methoden für Rangfunktionen** (Patrick Miß, Bachelor thesis, in German, 2021)
+0. **Bestimmung der Äquivalenzklassen möglicher Welten mit Hilfe des Typed Model Countings** (Franz Leonhard Nentwich, Bachelor thesis, in German, 2018)
+0. **Revisionen von Rangfunktionen mit Meta-Informationen** (Christian Riest, Master thesis, in German, 2018)
+0. **Probabilistische Wissenskontraktion mit Hilfe von minimaler Relativentropie** (Arthur Franke, Bachelor thesis, in German, 2017)
+0. **Reaktive Antwortmengenprogrammierung - formale Eigenschaften und logistische Anwendung** (Jonas Philipp Haldimann, Bachelor thesis, in German, 2017)
+0. **Beschreibungslogische Ontologien für autonome Fahrzeuge in der Logistik** (Daniel Gadalla, Bachelor thesis, in German, 2017)
+0. **Wissensverarbeitung und Wissensrevision in der Only-Believing Logic** (Yannic Twardokus, Bachelor thesis, in German, 2016)
+0. **Berechnung minimaler c-Repräsentationen mittels ganzzahliger linearer Programmierung** (Sebastian Sewarte, Bachelor thesis, in German, 2016)
+0. **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Christian Riest, Bachelor thesis, in German, 2016)
+0. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, Master thesis, in German, 2015)
+0. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, Bachelor thesis, in German, 2015)
 {: reversed="reversed"}
 
 ## Misc
