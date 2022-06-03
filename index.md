@@ -12,9 +12,9 @@ Germany\
 
 ## Research Interests
 
-> Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Probabilistic Inference > Statistical Relational AI > Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy
+> Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Statistical Relational AI (StaRAI) > Probabilistic Inference > Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy
 
-> Cognitive Logics > Plausible Reasoning and Conditionals 
+> Artificial Intelligence (AI) > Cognitive Logics > Plausible Reasoning and Belief Change > Conditional Reasoning, c-Representations
 
 ## Positions
 
@@ -256,6 +256,7 @@ Germany\
 
 ## Co-Supervised Theses
 
+0. **c-Repräsentationen in LEG-Netzen mit positiven Impact-Werten** (Arthur Franke, Master thesis, in German, 2022)
 0. **Induktives Lernen von ASP-Regeln mit Pruning** (Rabina Borici, Bachelor thesis, in German, 2022)
 0. **Algorithmic Computation of c-Representations in LEG-Networks** (Lorenzo Perez Veenstra, Master thesis, 2021)
 0. **ASP-Forgetting-Methoden für Rangfunktionen** (Patrick Miß, Bachelor thesis, in German, 2021)
