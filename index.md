@@ -39,10 +39,8 @@ Germany\
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
 {: reversed="reversed"}
 
-## Scientific Service and Memberships
+## Scientific Service
 
-0. **Member** of 
-   [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) (since 2022)
 0. **Publicity Co-Chair** of 
    [KR 2022](https://kr2022.cs.tu-dortmund.de)
 0. **Local Co-Organizer** of 
@@ -53,7 +51,6 @@ Germany\
    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
-0. **Member** of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
 0. **Reviewer** for 
    _JOURNALS:_
    Annals of Mathematics and Artificial Intelligence (AMAI), 
@@ -67,6 +64,13 @@ Germany\
    KR,
    _WORKSHOPS:_
    NMR 
+{: reversed="reversed"}
+
+## Memberships
+
+0. **Member** of 
+   [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) (since 2022)
+0. **Member** of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
 {: reversed="reversed"}
 
 ## Publications
@@ -275,6 +279,7 @@ Germany\
 ## Misc
 
 0. **ORCiD:** 0000-0003-0266-2334
+0. **Selected as one of the top 25% program committee members of AAAI 2021** ([AAAI-21-Program-Committee.pdf](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf))
 0. **Nominee for the FLAIRS 2019 Best Student Paper** (TOP3 paper, title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
 0. **Award from the German Physical Society (DFG)** (for excellent performence in physics in the Abitur in 2005)
 0. **Korfball player and official** for [KV Adler Rauxel e.V.](http://adler-rauxel.de/) (ever since) 
