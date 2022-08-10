@@ -280,7 +280,7 @@ Germany\
 
 0. **ORCiD:** 0000-0003-0266-2334
 0. **Selected as one of the top 25% program committee members of AAAI 2021** ([AAAI-21-Program-Committee.pdf](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf))
-0. **Nominee for the FLAIRS 2019 Best Student Paper** (TOP3 paper, title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
+0. **Nominee for the FLAIRS 2019 Best Student Paper** (TOP3 student paper of [FLAIRS 2019](https://sites.google.com/view/flairs-32homepage/awards); title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
 0. **Award from the German Physical Society (DFG)** (for excellent performence in physics in the Abitur in 2005)
 0. **Korfball player and official** for [KV Adler Rauxel e.V.](http://adler-rauxel.de/) (ever since) 
 {: reversed="reversed"}
