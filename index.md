@@ -47,6 +47,7 @@ Germany\
    [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), 
    [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
+   [AAAI 2023](https://aaai.org/Conferences/AAAI-23/),
    [KR 2022](https://kr2022.cs.tu-dortmund.de), 
    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
