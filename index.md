@@ -68,7 +68,7 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 
 0. **Member** of 
    [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) at the TU Dortmund (since 2022)
-0. **Member** of 
+0. **Former Member** of 
    [Qualitätsverbesserungskommission (QUEST)](https://www.cs.tu-dortmund.de/nps/de/Einrichtungen/Gremien/QUEST/index.html) 
    at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
 {: reversed="reversed"}
