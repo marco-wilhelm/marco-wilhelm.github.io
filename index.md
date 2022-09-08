@@ -10,11 +10,11 @@ Germany\
 **Email:** marco.wilhelm@tu-dortmund.de\
 **Phone:** +49-231-755-4992
 
+
 ## Research Interests
 
-> Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Statistical Relational AI (StaRAI) > Probabilistic Inference > Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy
+Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Currently: Conditionals, Ranking Functions, and Hybrid Approaches (OCF and ASP); Also: Probabilistic Reasoning (Principle of Maximum Entropy, StarAI), Cognitive Reasoning (Focused Inference)
 
-> Artificial Intelligence (AI) > Cognitive Logics > Plausible Reasoning and Belief Change > Conditional Reasoning, c-Representations
 
 ## Positions
 
@@ -26,8 +26,8 @@ Germany\
 
 ## Education
 
-0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015)
-0. **Student** of mathematics at TU Dortmund (from 2006 to 2012, Diploma degree in 2012, thesis: _"Der Gröbner-Walk"_)
+0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015, research topic: _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_)
+0. **Student** at the Department of Mathematics, TU Dortmund (from 2006 to 2012, Diploma degree in mathematics in 2012, thesis: _"Der Gröbner-Walk"_)
 {: reversed="reversed"}
 
 ## Research Projects
@@ -52,26 +52,25 @@ Germany\
    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
-0. **Reviewer** for 
-   _JOURNALS:_
-   Annals of Mathematics and Artificial Intelligence (AMAI), 
-   Fuzzy Sets and Systems,
-   International Journal of Approximate Reasoning (IJAR),
-   Journal of Applied Logics (JAR),
-   _CONFERENCES:_ 
-   AAAI, 
-   ECSQARU, 
-   IJCAI, 
-   KR,
-   _WORKSHOPS:_
-   NMR 
+0. **Reviewer** for several journals, conferences, and workshops:
+   [AMAI](https://www.springer.com/journal/10472) (Annals of Mathematics and Artificial Intelligence), 
+   [Fuzzy Sets and Systems](https://www.sciencedirect.com/journal/fuzzy-sets-and-systems),
+   [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning) (International Journal of Approximate Reasoning),
+   [JAR](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics);
+   [AAAI](https://www.aaai.org/Conferences/conferences.php), 
+   [ECSQARU](https://www.ecsqaru.org/), 
+   [IJCAI](https://www.ijcai.org/), 
+   [KR](https://kr.org/),
+   [NMR](https://nmr.cs.tu-dortmund.de/)
 {: reversed="reversed"}
 
 ## Memberships
 
 0. **Member** of 
-   [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) (since 2022)
-0. **Member** of _Qualitätsverbesserungskommission (QUEST)_ at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
+   [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) at the TU Dortmund (since 2022)
+0. **Member** of 
+   [Qualitätsverbesserungskommission (QUEST)](https://www.cs.tu-dortmund.de/nps/de/Einrichtungen/Gremien/QUEST/index.html) 
+   at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
 {: reversed="reversed"}
 
 ## Publications
@@ -283,5 +282,6 @@ Germany\
 0. **Selected as one of the top 25% program committee members of AAAI 2021** ([AAAI-21-Program-Committee.pdf](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf))
 0. **Nominee for the FLAIRS 2019 Best Student Paper** (TOP3 student paper of [FLAIRS 2019](https://sites.google.com/view/flairs-32homepage/awards); title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
 0. **Award from the German Physical Society (DFG)** (for excellent performence in physics in the Abitur in 2005)
-0. **Korfball player and official** for [KV Adler Rauxel e.V.](http://adler-rauxel.de/) (ever since) 
+0. **Webmaster** of [NMR Workshop Series](https://nmr.cs.tu-dortmund.de/), [KR 2022](https://kr2022.cs.tu-dortmund.de/), [FoIKS 2020](https://foiks2020.cs.tu-dortmund.de/), [KI 2017](ki2017.cs.tu-dortmund.de), [Adler Rauxel](http://adler-rauxel.de/)
+0. **Korfball player and official** for [KV Adler Rauxel e.V.](http://adler-rauxel.de/)
 {: reversed="reversed"}
