@@ -10,33 +10,47 @@ Germany\
 **Email:** marco.wilhelm@tu-dortmund.de\
 **Phone:** +49-231-755-4992
 
-
 ## Research Interests
 
 Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Currently: Conditionals, Ranking Functions, and Hybrid Approaches (OCF and ASP); Also: Probabilistic Reasoning (Principle of Maximum Entropy, StarAI), Cognitive Reasoning (Focused Inference)
 
-
 ## Positions
 
-0. **Research Assistant** at the Department of Statistics, TU Dortmund,
-   research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html) (since Mar 2022)
+<!--
 0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
-   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/) (from Oct 2012 to Feb 2022)
+   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/) 
+   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
+-->
+0. **Research Assistant** at the Department of Statistics, TU Dortmund,
+   research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
+   leaded by [Prof. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html) (since Mar 2022)
+0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
+   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/)
+   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (from Oct 2012 to Feb 2022)
 {: reversed="reversed"}
 
 ## Education
 
-0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015, research topic: _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_)
-0. **Student** at the Department of Mathematics, TU Dortmund (from 2006 to 2012, Diploma degree in mathematics in 2012, thesis: _"Der Gröbner-Walk"_)
+0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015, research topic: "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy")
+0. **Student** at the Department of Mathematics, TU Dortmund (from 2006 to 2012, Diploma degree in mathematics in 2012, thesis: "Der Gröbner-Walk", supervisors: [Prof. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/))
 {: reversed="reversed"}
 
 ## Research Projects
 
+0. Upcoming DFG Project (KE 1413/14-1): **Conditionals and ASP for Expert Reasoning (CASPER)**, 
+   "Ein hybrides wissensbasiertes System auf der Basis von Konditionalen und ASP mit interaktiver Modellierungsumgebung und Anwendung auf Lagerplanung"
+   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
+   (from Oct 2022 on)
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
-   Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/), since Mar 2022)
+   Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/)
+   leaded by [Prof. Fani Lauermann](https://sites.google.com/site/fanilauermann/home) and 
+   [Prof. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (since Mar 2022)
 0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
-   Member of Subprojekt A3 _"Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy"_ 
-   ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org), from 2015 to 2019)
+   Member of Subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" 
+   ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org)) 
+   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/)  and
+   [Prof. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
+   (from 2015 to 2019)
 {: reversed="reversed"}
 
 ## Scientific Service
@@ -279,9 +293,17 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 ## Misc
 
 0. **ORCiD:** 0000-0003-0266-2334
+0. **Online Profiles:** 
+   [TU Dortmund](https://www.tu-dortmund.de/personensuche/?tx_tudoitmc_personsearch%5Bq%5D=Marco%20Wilhelm),
+   [DBLP](https://dblp.org/),
+   [Google Scholar](https://scholar.google.com/citations?user=gMj0sNMAAAAJ&hl=de),
+   [Research Gate](https://www.researchgate.net/profile/Marco-Wilhelm-3), 
+   [LinkedIn](https://www.linkedin.com/in/marco-wilhelm-37384a212/),
+   [XING](https://www.xing.com/profile/Marco_Wilhelm10/cv),
 0. **Selected as one of the top 25% program committee members of AAAI 2021** ([AAAI-21-Program-Committee.pdf](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf))
 0. **Nominee for the FLAIRS 2019 Best Student Paper** (TOP3 student paper of [FLAIRS 2019](https://sites.google.com/view/flairs-32homepage/awards); title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
-0. **Award from the German Physical Society (DFG)** (for excellent performence in physics in the Abitur in 2005)
 0. **Webmaster** of [NMR Workshop Series](https://nmr.cs.tu-dortmund.de/), [KR 2022](https://kr2022.cs.tu-dortmund.de/), [FoIKS 2020](https://foiks2020.cs.tu-dortmund.de/), [KI 2017](ki2017.cs.tu-dortmund.de), [Adler Rauxel](http://adler-rauxel.de/)
+0. **Positions as a Student Assistant:** [Internship Office of the Faculty of Mechanical Engineering, TU Dortmund](https://mb.tu-dortmund.de/en/study/internship/) (from 2010 to 2012), [Professur für Gesundheitsförderung und Verbraucherbildung, TU Dortmund](http://professur-guv.de/institut/index.html) (from 2007 to 2011)
+0. **Award from the German Physical Society (DFG)** (for excellent performence in physics in the Abitur in 2005)
 0. **Korfball player and official** for [KV Adler Rauxel e.V.](http://adler-rauxel.de/)
 {: reversed="reversed"}
