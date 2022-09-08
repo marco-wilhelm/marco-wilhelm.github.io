@@ -42,7 +42,7 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
    (from Oct 2022 on)
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
-   Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/)
+   Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/))
    leaded by [Prof. Fani Lauermann](https://sites.google.com/site/fanilauermann/home) and 
    [Prof. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (since Mar 2022)
 0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
@@ -299,7 +299,7 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    [Google Scholar](https://scholar.google.com/citations?user=gMj0sNMAAAAJ&hl=de),
    [Research Gate](https://www.researchgate.net/profile/Marco-Wilhelm-3), 
    [LinkedIn](https://www.linkedin.com/in/marco-wilhelm-37384a212/),
-   [XING](https://www.xing.com/profile/Marco_Wilhelm10/cv),
+   [XING](https://www.xing.com/profile/Marco_Wilhelm10/cv)
 0. **Selected as one of the top 25% program committee members of AAAI 2021** ([AAAI-21-Program-Committee.pdf](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf))
 0. **Nominee for the FLAIRS 2019 Best Student Paper** (TOP3 student paper of [FLAIRS 2019](https://sites.google.com/view/flairs-32homepage/awards); title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
 0. **Webmaster** of [NMR Workshop Series](https://nmr.cs.tu-dortmund.de/), [KR 2022](https://kr2022.cs.tu-dortmund.de/), [FoIKS 2020](https://foiks2020.cs.tu-dortmund.de/), [KI 2017](ki2017.cs.tu-dortmund.de), [Adler Rauxel](http://adler-rauxel.de/)
