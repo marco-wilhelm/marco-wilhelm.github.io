@@ -307,3 +307,5 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 0. **Award from the German Physical Society (DFG)** (for excellent performence in physics in the Abitur in 2005)
 0. **Korfball player and official** for [KV Adler Rauxel e.V.](http://adler-rauxel.de/)
 {: reversed="reversed"}
+
+![Skyline of Dortmund](skyline.png)
