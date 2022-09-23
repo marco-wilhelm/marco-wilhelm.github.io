@@ -69,13 +69,14 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 0. **Reviewer** for several journals, conferences, and workshops:
    [AMAI](https://www.springer.com/journal/10472) (Annals of Mathematics and Artificial Intelligence), 
    [Fuzzy Sets and Systems](https://www.sciencedirect.com/journal/fuzzy-sets-and-systems),
+   [IfCoLog](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics);
    [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning) (International Journal of Approximate Reasoning),
-   [JAR](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics);
    [AAAI](https://www.aaai.org/Conferences/conferences.php), 
    [ECSQARU](https://www.ecsqaru.org/), 
    [IJCAI](https://www.ijcai.org/), 
    [KR](https://kr.org/),
    [NMR](https://nmr.cs.tu-dortmund.de/)
+   [PRICAI](https://www.pricai.org/)
 {: reversed="reversed"}
 
 ## Memberships
