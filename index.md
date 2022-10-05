@@ -1,55 +1,55 @@
 ## TU Dortmund
 
-**Department of Statistics**
+**Department of Computer Science**
 
-Martin-Schmeißer-Weg 13\
+Otto-Hahn-Straße 12\
 44227 Dortmund\
 Germany\
 \
-**Room:** 206 (consultation hour by appointment)\
+**Room:** 3.015 (consultation hour by appointment)\
 **Email:** marco.wilhelm@tu-dortmund.de\
+<!--
 **Phone:** +49-231-755-4992
+-->
 
 ## Research Interests
 
-Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Currently: Conditionals, Ranking Functions, and Hybrid Approaches (OCF and ASP); Also: Probabilistic Reasoning (Principle of Maximum Entropy, StarAI), Cognitive Reasoning (Focused Inference)
+Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Conditionals, Ranking Functions, and Hybrid Approaches (OCF and ASP); Also: Probabilistic Reasoning (Principle of Maximum Entropy, StarAI), Cognitive Reasoning (Focused Inference)
 
 ## Positions
 
-<!--
 0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
    research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/) 
-   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
--->
+   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
 0. **Research Assistant** at the Department of Statistics, TU Dortmund,
    research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
-   leaded by [Prof. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html) (since Mar 2022)
+   leaded by [Prof. Dr. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html) (from Mar 2022 to Sep 2022)
 0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
    research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/)
-   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (from Oct 2012 to Feb 2022)
+   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (from Oct 2012 to Feb 2022)
 {: reversed="reversed"}
 
 ## Education
 
 0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015, research topic: "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy")
-0. **Student** at the Department of Mathematics, TU Dortmund (from 2006 to 2012, Diploma degree in mathematics in 2012, thesis: "Der Gröbner-Walk", supervisors: [Prof. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/))
+0. **Student** at the Department of Mathematics, TU Dortmund (from 2006 to 2012, Diploma degree in mathematics in 2012, thesis: "Der Gröbner-Walk", supervisors: [Prof. Dr. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Dr. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/))
 {: reversed="reversed"}
 
 ## Research Projects
 
-0. Upcoming DFG Project (KE 1413/14-1): **Conditionals and ASP for Expert Reasoning (CASPER)**, 
+0. **DFG Project (Grant KE 1413/14-1): Conditionals and ASP for Expert Reasoning (CASPER)**, 
    "Ein hybrides wissensbasiertes System auf der Basis von Konditionalen und ASP mit interaktiver Modellierungsumgebung und Anwendung auf Lagerplanung"
-   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
-   (from Oct 2022 on)
+   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
+   (since Oct 2022)
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
    Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/))
-   leaded by [Prof. Fani Lauermann](https://sites.google.com/site/fanilauermann/home) and 
-   [Prof. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (since Mar 2022)
-0. **DFG Research Unit 1513 on Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
-   Member of Subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" 
+   leaded by [Prof. Fani Lauermann, PhD](https://sites.google.com/site/fanilauermann/home) and 
+   [Prof. Dr. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (from Mar 2022 to Sep 2022)
+0. **DFG Research Unit 1513: Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
+   Subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" 
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org)) 
-   leaded by [Prof. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/)  and
-   [Prof. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
+   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/)  and
+   [Prof. Dr. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
    (from 2015 to 2019)
 {: reversed="reversed"}
 
@@ -296,7 +296,7 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 0. **ORCiD:** 0000-0003-0266-2334
 0. **Online Profiles:** 
    [TU Dortmund](https://www.tu-dortmund.de/personensuche/?tx_tudoitmc_personsearch%5Bq%5D=Marco%20Wilhelm),
-   [DBLP](https://dblp.org/),
+   [DBLP](https://dblp.org/](https://dblp.org/pid/146/3146.html),
    [Google Scholar](https://scholar.google.com/citations?user=gMj0sNMAAAAJ&hl=de),
    [Research Gate](https://www.researchgate.net/profile/Marco-Wilhelm-3), 
    [LinkedIn](https://www.linkedin.com/in/marco-wilhelm-37384a212/),
