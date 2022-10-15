@@ -296,7 +296,7 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 0. **ORCiD:** 0000-0003-0266-2334
 0. **Online Profiles:** 
    [TU Dortmund](https://www.tu-dortmund.de/personensuche/?tx_tudoitmc_personsearch%5Bq%5D=Marco%20Wilhelm),
-   [DBLP](https://dblp.org/](https://dblp.org/pid/146/3146.html),
+   [DBLP](https://dblp.org/pid/146/3146.html),
    [Google Scholar](https://scholar.google.com/citations?user=gMj0sNMAAAAJ&hl=de),
    [Research Gate](https://www.researchgate.net/profile/Marco-Wilhelm-3), 
    [LinkedIn](https://www.linkedin.com/in/marco-wilhelm-37384a212/),
