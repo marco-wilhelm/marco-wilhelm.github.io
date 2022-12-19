@@ -14,7 +14,12 @@ Germany\
 
 ## Research Interests
 
-Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Uncertain Reasoning (UR) > Conditionals, Ranking Functions, and Hybrid Approaches (OCF and ASP); Also: Probabilistic Reasoning (Principle of Maximum Entropy, StarAI), Cognitive Reasoning (Focused Inference)
+- Artificial Intelligence (AI) 
+- Knowledge Representation and Reasoning (KR) 
+- Uncertain Reasoning (UR) 
+- Qualitative Nonmonotonic Reasoning (OCF and ASP)
+- Probabilistic Relational Reasoning (MaxEnt and StarAI)
+- Cognitive Logics (CL)
 
 ## Positions
 
@@ -91,6 +96,12 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 
 ## Publications
 
+0. **Activation-Based Conditional Inference**
+   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
+   _Journal of Applied Logics - Special Issue on Formal and Cognitive Reasoning, 2023 (accepted)_
+0. **Towards Finding Optimal Solutions for Constrained Warehouse Layouts Using Answer Set Programming**
+   Pascal Kaiser, Andre Thevapalan, Moritz Roidl, Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>.
+   _Proceedings of the 4th Conference on Production Systems and Logistics (CPSL), 2023 (accepted)_
 0. **Integrating Cognitive Principles From ACT-R Into Probabilistic Conditional Reasoning by Taking the Example of Maximum Entropy Reasoning**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
    _Proceedings of the 35th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2022_
@@ -161,6 +172,12 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
 
 ## Scientific Talks
 
+0. **CASPER - Conditionals and ASP for Expert Reasoning. A Hybrid Knowledge-Based System Using Conditionals and ASP With Interactive Modelling Environment and Application to Warehouse Planning**
+   Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, Artificial Intelligence, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   _Hagen, Germany (December 6, 2022); joint talk with Andre Thevapalan_
+0. **Maximum Entropy Reasoning**
+   Internal Presentation in the Project 'From Prediction to Agile Interventions in the Social Sciences' (FAIR), TU Dortmund.
+   _Dortmund, Germany (March 16, 2022)_
 0. **Integrating Cognitive Principles From ACT-R Into Probabilistic Conditional Reasoning by Taking the Example of Maximum Entropy Reasoning**
    35th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2022).
    _Jensen Beach, Florida, USA, and virtual (May 17, 2022)_ 
@@ -168,7 +185,7 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    34th International Conference of the Florida Artificial Intelligence Research Society (FLAIRS 2021).
    _North Miami Beach, Florida, USA, and virtual (May 17, 2021)_
 0. **Activation-Based Conditional Inference and How to Forget and Remember**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (March 24, 2021); joint talk with Diana Howey_
 0. **Focused Inference and System P**
    35th Conference on Artificial Intelligence (AAAI 2021).
@@ -177,16 +194,16 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    18th International Workshop on Non-Monotonic Reasoning.
    _Virtual Workshop (September 13, 2020)_
 0. **Focused Inference and System P**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (July 8, 2020)_
 0. **PRECORE Challenge - Using the Principle of Maximum Entropy to Predict Human Responses to Syllogism Tasks**
    41st Cognitive Science Conference (CogSci 2019).
    _Montreal, Canada (July 24, 2019)_
 0. **Probabilistic Inferences Under Maximum Entropy for Description Logics**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (July 17, 2019)
 0. **PRECORE Challenge - Using the Principle of Maximum Entropy to Predict Human Responses to Syllogism Tasks**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (June 27, 2019)_
 0. **Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy**
    13th Workshop on Hybrid Reasoning of DFG Research Unit 1513.
@@ -201,13 +218,13 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    3rd Workshop on Human Reasoning and Computational Logic.
    _Dresden, Germany (April 5, 2019)_
 0. **ALC^ME - A Probabilistic Description Logic Under the Aggregating Semantics and the Principle of Maximum Entropy**
-   Joint Doctoral Colloquium of Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Hagen, Germany (December 19, 2018)_
 0. **ALC^ME - A Probabilistic Description Logic Under the Aggregating Semantics and the Principle of Maximum Entropy**
    12th Workshop on Hybrid Reasoning of DFG Research Unit 1513.
    _Freiburg im Breisgau, Germany (November 13, 2018)_
 0. **Typed Model Counting**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (July 9, 2018)_
 0. **A Generalized Iterative Scaling Algorithm for Maximum Entropy Model Computations Respecting Probabilistic Independencies**
    10th International Symposium on Foundations of Information and Knowledge Systems (FOIKS 2018).
@@ -216,10 +233,10 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    11th Workshop on Hybrid Reasoning of DFG Research Unit 1513.
    _Potsdam, Germany (May 8, 2018)_
 0. **A Generalized Iterative Scaling Algorithm for Maximum Entropy Model Computations Respecting Probabilistic Independencies**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (April 30, 2018)_
 0. **(First-order) Typed Model Counting for Maximum Entropy Reasoning**
-   Joint Doctoral Colloquium of Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Hagen, Germany (December 19, 2017)_
 0. **First-Order Typed Model Counting for Probabilistic Conditional Reasoning at Maximum Entropy**
    11th International Conference on Scalable Uncertainty Management (SUM 2017).
@@ -228,22 +245,22 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    30th International Conference of the Florida Artificial Intelligence Research Society (FLAIRS 2017).
    _Marco Island, Florida, USA (May 23, 2017)_
 0. **A Semantics for Conditionals with Default Negation**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (May 3, 2017)_
 0. **Typed Model Counting and its Application to Probabilistic Conditional Reasoning at Maximum Entropy**
-   Joint Doctoral Colloquium of Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Hagen, Germany (December 21, 2016)_
 0. **Typed Model Counting and its Application to Probabilistic Conditional Reasoning at Maximum Entropy**
    8th Workshop on Hybrid Reasoning of DFG Research Unit 1513.
    _Dresden, Germany (November 29, 2016)_
 0. **Typed Model Counting and its Application to Probabilistic Conditional Reasoning at Maximum Entropy**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (August 24, 2016)_
 0. **CondStructor - An Algorithm for Classifying Possible Worlds With a View to Probabilistic Reasoning at Maximum Entropy**
    7th Workshop on Hybrid Reasoning of DFG Research Unit 1513.
    _Freiburg im Breisgau, Germany (June 6, 2016)_
 0. **Probabilistic Inferences under Maximum Entropy for Description Logics. Building Equivalence Classes of Possible Worlds With Respect to Conditional Knowledge**
-   Joint Doctoral Colloquium of Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Hagen, Germany (December 16, 2015)_
 0. **Probabilistic Knowledge Representation Using Gröbner Basis Theory**
    13th International Symposium on Artificial Intelligence and Mathematics (ISAIM 2014).
@@ -252,7 +269,7 @@ Artificial Intelligence (AI) > Knowledge Representation and Reasoning (KR) > Unc
    23th Miniworkshop on Theoretical Computer Science, TU Dortmund.
    _Dortmund, Germany (June 24, 2013)_
 0. **Probabilistic Knowledge Representation Using Gröbner Basis Theory**
-   Journal Club of Working Group Information Engineering, TU Dortmund.
+   Journal Club of the Working Group Information Engineering, TU Dortmund.
    _Dortmund, Germany (June 11, 2013)_
 {: reversed="reversed"}
 
