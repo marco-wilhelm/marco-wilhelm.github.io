@@ -24,7 +24,7 @@ Germany\
 ## Positions
 
 0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
-   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/) 
+   research group on [Information Engineering](https://logic-in.cs.tu-dortmund.de/) 
    leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
 0. **Research Assistant** at the Department of Statistics, TU Dortmund,
    research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
