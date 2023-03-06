@@ -25,13 +25,13 @@ Germany\
 
 0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
    research group on [Information Engineering](https://logic-in.cs.tu-dortmund.de/) 
-   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
+   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
 0. **Research Assistant** at the Department of Statistics, TU Dortmund,
    research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
-   leaded by [Prof. Dr. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html) (from Mar 2022 to Sep 2022)
+   led by [Prof. Dr. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html) (from Mar 2022 to Sep 2022)
 0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
    research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/)
-   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (from Oct 2012 to Feb 2022)
+   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (from Oct 2012 to Feb 2022)
 {: reversed="reversed"}
 
 ## Education
@@ -44,16 +44,16 @@ Germany\
 
 0. **DFG Project (Grant KE 1413/14-1): Conditionals and ASP for Expert Reasoning (CASPER)**, 
    "Ein hybrides wissensbasiertes System auf der Basis von Konditionalen und ASP mit interaktiver Modellierungsumgebung und Anwendung auf Lagerplanung"
-   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
+   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
    (since Oct 2022)
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
    Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/))
-   leaded by [Prof. Fani Lauermann, PhD](https://sites.google.com/site/fanilauermann/home) and 
+   led by [Prof. Fani Lauermann, PhD](https://sites.google.com/site/fanilauermann/home) and 
    [Prof. Dr. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (from Mar 2022 to Sep 2022)
 0. **DFG Research Unit 1513: Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
    Subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" 
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org)) 
-   leaded by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/)  and
+   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/)  and
    [Prof. Dr. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
    (from 2015 to 2019)
 {: reversed="reversed"}
