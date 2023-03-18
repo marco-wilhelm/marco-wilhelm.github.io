@@ -12,6 +12,24 @@ Germany\
 **Phone:** +49-231-755-4992
 -->
 
+## News
+
+0. Together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck,_ I will give a tutorial on 
+   **Statistical Relational AI - Exploiting Symmetries** 
+   at the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023).
+0. The paper **Prioritizing Answer Sets Based on Conditional Expert Knowledge** co-authored with
+   _Andre Thevapalan and Gabriele Kern-Isberner_
+   has been accepted as a full paper at the 36th International FLAIRS Conference (FLAIRS 2023).
+0. The paper **An Interactive Modelling Environment for Designing Warehouse Layouts Based on ASP** co-authored with
+   _Andre Thevapalan, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl_
+   has been accepted as a poster paper at the 36th International FLAIRS Conference (FLAIRS 2023).
+0. The paper **Activation-Based Conditional Inference** co-authored with
+   _Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle_
+   has been accepted for publication in the Journal of Applied Logics (Special Issue on Formal and Cognitive Reasoning).
+0. The paper **Towards Finding Optimal Solutions for Constrained Warehouse Layouts Using Answer Set Programming** co-authored with 
+   _Pascal Kaiser, Andre Thevapalan, Moritz Roidl, and Gabriele Kern-Isberner_
+   has been accepted at the 4th Conference on Production Systems and Logistics (CPSL 2023).
+
 ## Research Interests
 
 - Artificial Intelligence (AI) 
@@ -96,12 +114,6 @@ Germany\
 
 ## Publications
 
-0. **Activation-Based Conditional Inference**
-   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
-   _Journal of Applied Logics - Special Issue on Formal and Cognitive Reasoning, 2023 (accepted)_
-0. **Towards Finding Optimal Solutions for Constrained Warehouse Layouts Using Answer Set Programming**
-   Pascal Kaiser, Andre Thevapalan, Moritz Roidl, Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>.
-   _Proceedings of the 4th Conference on Production Systems and Logistics (CPSL), 2023 (accepted)_
 0. **Integrating Cognitive Principles From ACT-R Into Probabilistic Conditional Reasoning by Taking the Example of Maximum Entropy Reasoning**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
    _Proceedings of the 35th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2022_
