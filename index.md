@@ -23,12 +23,6 @@ Germany\
 0. The paper **An Interactive Modelling Environment for Designing Warehouse Layouts Based on ASP** co-authored with
    _Andre Thevapalan, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl_
    has been accepted as a poster paper at the 36th International FLAIRS Conference (FLAIRS 2023).
-0. The paper **Activation-Based Conditional Inference** co-authored with
-   _Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle_
-   has been accepted for publication in the Journal of Applied Logics (Special Issue on Formal and Cognitive Reasoning).
-0. The paper **Towards Finding Optimal Solutions for Constrained Warehouse Layouts Using Answer Set Programming** co-authored with 
-   _Pascal Kaiser, Andre Thevapalan, Moritz Roidl, and Gabriele Kern-Isberner_
-   has been accepted at the 4th Conference on Production Systems and Logistics (CPSL 2023).
 
 ## Research Interests
 
@@ -115,11 +109,17 @@ Germany\
 
 ## Publications
 
+0. **Activation-Based Conditional Inference**
+   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
+   _In: Journal of Applied Logics - IfCoLog Journal of Logics and their Applications. Vol 10(2): pp. 221-248, 2023_
+0. **Towards Finding Optimal Solutions For Constrained Warehouse Layouts Using Answer Set Programming**
+   Pascal Kaiser, Andre Thevapalan, Moritz Roidl, Gabriele Kern-Isberner, and <ins>Marco Wilhelm</ins>.
+   _Proceedings of the 4th Conference on Production Systems and Logistics (CPSL), 2023_
 0. **Integrating Cognitive Principles From ACT-R Into Probabilistic Conditional Reasoning by Taking the Example of Maximum Entropy Reasoning**
-   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
    _Proceedings of the 35th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2022_
 0. **Conditional Inference and Activation of Knowledge Entities in ACT-R**
-   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
    _arXiv:2110.15214 [cs.AI], 2021_
 0. **A Brief Introduction Into Activation-Based Conditional Inference**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
@@ -171,7 +171,7 @@ Germany\
    _Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2017_
 0. **Probabilistic knowledge representation using the principle of maximum entropy and Gröbner basis theory**
    Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>, and Christoph Beierle.
-   _Annals of Mathematics and Artificial Intelligence 79: pp. 163-179, 2017_
+   _In: Annals of Mathematics and Artificial Intelligence 79: pp. 163-179, 2017_
 0. **Propositional Probabilistic Reasoning at Maximum Entropy Modulo Theories**
    <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, and Andreas Ecke.
    _Proceedings of the 29th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2016_
