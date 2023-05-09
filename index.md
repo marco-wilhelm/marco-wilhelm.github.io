@@ -17,12 +17,7 @@ Germany\
 0. Together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck,_ I will give a tutorial on 
    **Statistical Relational AI - Exploiting Symmetries** 
    at the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023).
-0. The paper **Prioritizing Answer Sets Based on Conditional Expert Knowledge** co-authored with
-   _Andre Thevapalan and Gabriele Kern-Isberner_
-   has been accepted as a full paper at the 36th International FLAIRS Conference (FLAIRS 2023).
-0. The paper **An Interactive Modelling Environment for Designing Warehouse Layouts Based on ASP** co-authored with
-   _Andre Thevapalan, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl_
-   has been accepted as a poster paper at the 36th International FLAIRS Conference (FLAIRS 2023).
+   [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html)
 
 ## Research Interests
 
