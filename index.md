@@ -109,6 +109,12 @@ Germany\
 
 ## Publications
 
+0. **Prioritizing Answer Sets Based on Conditional Expert Knowledge**
+   <ins>Marco Wilhelm</ins>, Andre Thevapalan, and Gabriele Kern-Isberner.
+   _Proceedings of the 36th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2023_
+0. **An Interactive Modelling Environment for Designing Warehouse Layouts Based on ASP**
+   Andre Thevapalan, <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl.
+   _Proceedings of the 36th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2023_
 0. **Activation-Based Conditional Inference**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
    _In: Journal of Applied Logics - IfCoLog Journal of Logics and their Applications. Vol 10(2): pp. 221-248, 2023_
