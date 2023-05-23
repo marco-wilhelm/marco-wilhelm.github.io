@@ -187,7 +187,7 @@ Germany\
 
 ## Scientific Talks
 
-0 **Prioritizing Answer Sets Based on Conditional Expert Knowledge**
+0. **Prioritizing Answer Sets Based on Conditional Expert Knowledge**
    36th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2023).
    _Clearwater Beach, Florida, USA (May 16, 2023)_
 0. **CASPER - Conditionals and ASP for Expert Reasoning. A Hybrid Knowledge-Based System Using Conditionals and ASP With Interactive Modelling Environment and Application to Warehouse Planning**
