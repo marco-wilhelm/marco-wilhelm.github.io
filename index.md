@@ -14,10 +14,11 @@ Germany\
 
 ## News
 
+0. My paper **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning** has been accepted for [KR 2023](https://kr.org/KR2023/).
 0. Together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck,_ I will give a tutorial on 
    **Statistical Relational AI - Exploiting Symmetries** 
-   at the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023).
-   [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html)
+   at [KR 2023](https://kr.org/KR2023/). See also the
+   [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
 
 ## Research Interests
 
@@ -186,6 +187,9 @@ Germany\
 
 ## Scientific Talks
 
+0 **Prioritizing Answer Sets Based on Conditional Expert Knowledge**
+   36th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2023).
+   _Clearwater Beach, Florida, USA (May 16, 2023)_
 0. **CASPER - Conditionals and ASP for Expert Reasoning. A Hybrid Knowledge-Based System Using Conditionals and ASP With Interactive Modelling Environment and Application to Warehouse Planning**
    Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, Artificial Intelligence, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Hagen, Germany (December 6, 2022); joint talk with Andre Thevapalan_
