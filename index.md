@@ -14,13 +14,14 @@ Germany\
 
 ## News
 
+0. My paper **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations** co-authored with _Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck_ has been accepted for [JELIA 2023](https://jelia2023.inf.tu-dresden.de/).
 0. My paper **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning** has been accepted for [KR 2023](https://kr.org/KR2023/).
 0. Together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck,_ I will give a tutorial on 
    **Statistical Relational AI - Exploiting Symmetries** 
    at [KR 2023](https://kr.org/KR2023/). See also the
    [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
 
-## Research Interests
+## Current Research Interests
 
 - Artificial Intelligence (AI) 
 - Knowledge Representation and Reasoning (KR) 
@@ -74,6 +75,7 @@ Germany\
    [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), 
    [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
+   [AAAI 2024](https://aaai.org/aaai-conference/),
    [ECSQARU 2023](https://www.cril.univ-artois.fr/ecsqaru23/),
    [KR 2023](https://kr.org/KR2023/),
    [AAAI 2023](https://aaai.org/Conferences/AAAI-23/),
