@@ -313,6 +313,8 @@ Germany\
 
 ## Co-Supervised Theses
 
+0. **Extraktion konditionaler Wissensbasen aus neuronalen Netzen** (Alexander Hahn, Master thesis, in German, 2023)
+0. **Priorisierung von Antwortmengen mit Rangfunktionen, insbesondere auf Basis des Toleranzbegriffs** (Lars-Phillip Spiegel, Master thesis, in German, 2023)
 0. **c-Repräsentationen in LEG-Netzen mit positiven Impact-Werten** (Arthur Franke, Master thesis, in German, 2022)
 0. **Induktives Lernen von ASP-Regeln mit Pruning** (Rabina Borici, Bachelor thesis, in German, 2022)
 0. **Algorithmic Computation of c-Representations in LEG-Networks** (Lorenzo Perez Veenstra, Master thesis, 2021)
