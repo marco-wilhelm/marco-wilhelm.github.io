@@ -15,7 +15,6 @@ Germany\
 ## News
 
 0. My paper **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations** co-authored with _Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck_ has been accepted for [JELIA 2023](https://jelia2023.inf.tu-dresden.de/).
-0. My paper **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning** has been accepted for [KR 2023](https://kr.org/KR2023/).
 0. Together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck,_ I will give a tutorial on 
    **Statistical Relational AI - Exploiting Symmetries** 
    at [KR 2023](https://kr.org/KR2023/). See also the
@@ -107,6 +106,9 @@ Germany\
 
 ## Publications
 
+0. **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning**
+   <ins>Marco Wilhelm</ins>.
+   _Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR), 2023_
 0. **Prioritizing Answer Sets Based on Conditional Expert Knowledge**
    <ins>Marco Wilhelm</ins>, Andre Thevapalan, and Gabriele Kern-Isberner.
    _Proceedings of the 36th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2023_
