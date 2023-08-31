@@ -19,6 +19,7 @@ Germany\
    **Statistical Relational AI - Exploiting Symmetries** 
    at [KR 2023](https://kr.org/KR2023/). See also the
    [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
+{: reversed="reversed"}
 
 ## Current Research Interests
 
