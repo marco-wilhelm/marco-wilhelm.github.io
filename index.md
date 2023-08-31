@@ -189,6 +189,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning**
+   Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   _Virtual (August 14, 2023)_
 0. **Prioritizing Answer Sets Based on Conditional Expert Knowledge**
    36th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2023).
    _Clearwater Beach, Florida, USA (May 16, 2023)_
