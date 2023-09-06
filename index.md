@@ -105,7 +105,7 @@ Germany\
 
 0. **Statistical Relational AI - Exploiting Symmetries**
    together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck_
-   at [KR 2023](https://kr.org/KR2023/). See also the
+   at [KR 2023](https://kr.org/KR2023/) in Rhodes, Greece (September 4, 2023). See also the
    [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
 {: reversed="reversed"}
 
