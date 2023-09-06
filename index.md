@@ -15,10 +15,6 @@ Germany\
 ## News
 
 0. My paper **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations** co-authored with _Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck_ has been accepted for [JELIA 2023](https://jelia2023.inf.tu-dresden.de/).
-0. Together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck,_ I will give a tutorial on 
-   **Statistical Relational AI - Exploiting Symmetries** 
-   at [KR 2023](https://kr.org/KR2023/). See also the
-   [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
 {: reversed="reversed"}
 
 ## Current Research Interests
@@ -103,6 +99,14 @@ Germany\
 0. **Former Member** of 
    [Qualitätsverbesserungskommission (QUEST)](https://www.cs.tu-dortmund.de/nps/de/Einrichtungen/Gremien/QUEST/index.html) 
    at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
+{: reversed="reversed"}
+
+## Tutorials
+
+0. **Statistical Relational AI - Exploiting Symmetries**
+   together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck_
+   at [KR 2023](https://kr.org/KR2023/). See also the
+   [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
 {: reversed="reversed"}
 
 ## Publications
@@ -192,6 +196,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning**
+   20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023).
+   _ Rhodes, Greece (September 5, 2023)_
 0. **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning**
    Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Virtual (August 14, 2023)_
