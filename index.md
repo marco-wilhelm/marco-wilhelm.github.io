@@ -79,16 +79,17 @@ Germany\
    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
-0. **Reviewer** for several journals, conferences, and workshops:
+0. **Reviewer** of several journal articles, book series, and conference and workshop papers:
    [AMAI](https://www.springer.com/journal/10472) (Annals of Mathematics and Artificial Intelligence), 
    [Fuzzy Sets and Systems](https://www.sciencedirect.com/journal/fuzzy-sets-and-systems),
-   [IfCoLog](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics);
-   [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning) (International Journal of Approximate Reasoning),
+   [IfCoLog](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics),
+   [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning) (International Journal of Approximate Reasoning);
+   [LAR](https://www.springer.com/series/11547) (Logic, Argumentation and Reasoning);
    [AAAI](https://www.aaai.org/Conferences/conferences.php), 
    [ECSQARU](https://www.ecsqaru.org/), 
    [IJCAI](https://www.ijcai.org/), 
    [KR](https://kr.org/),
-   [NMR](https://nmr.cs.tu-dortmund.de/)
+   [NMR](https://nmr.cs.tu-dortmund.de/),
    [PRICAI](https://www.pricai.org/)
 {: reversed="reversed"}
 
