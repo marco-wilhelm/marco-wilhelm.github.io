@@ -12,10 +12,12 @@ Germany\
 **Phone:** +49-231-755-4992
 -->
 
+<!--
 ## News
 
 0. My paper **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations** co-authored with _Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck_ has been accepted for [JELIA 2023](https://jelia2023.inf.tu-dresden.de/).
 {: reversed="reversed"}
+-->
 
 ## Current Research Interests
 
@@ -112,6 +114,9 @@ Germany\
 
 ## Publications
 
+0. **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations**
+   <ins>Marco Wilhelm</ins>, Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck.
+   _Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA), 2023_
 0. **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning**
    <ins>Marco Wilhelm</ins>.
    _Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR), 2023_
@@ -197,9 +202,12 @@ Germany\
 
 ## Scientific Talks
 
+0. **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations**
+   18th European Conference on Logics in Artificial Intelligence (JELIA 2023)
+   _Dresden, Germany (September 21, 2023)_
 0. **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning**
    20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023).
-   _ Rhodes, Greece (September 5, 2023)_
+   _Rhodes, Greece (September 5, 2023)_
 0. **Integrating Linear Arithmetic Constraints Into Conditional Maximum Entropy Reasoning**
    Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Virtual (August 14, 2023)_
