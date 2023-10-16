@@ -12,12 +12,10 @@ Germany\
 **Phone:** +49-231-755-4992
 -->
 
-<!--
 ## News
 
-0. My paper **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations** co-authored with _Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck_ has been accepted for [JELIA 2023](https://jelia2023.inf.tu-dresden.de/).
+0. My paper **Activation-Based Conditional Inference (Extended Abstract)** co-authored with _Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald and Christoph Beierle_ has been accepted for [ACLAI 2023](https://lianda23.uma.es/).
 {: reversed="reversed"}
--->
 
 ## Current Research Interests
 
