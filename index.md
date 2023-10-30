@@ -110,7 +110,7 @@ Germany\
    [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
 {: reversed="reversed"}
 
-## Publications
+## Peer-Reviewed Publications
 
 0. **Activation-Based Conditional Inference (Extended Abstract)**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald and Christoph Beierle.
@@ -203,6 +203,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **Decomposing Constraint Networks for Calculating c-Representations**
+   Joint Workshop of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, Artificial Intelligence, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   _Dortmund, Germany (October 30, 2023)_   
 0. **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations**
    18th European Conference on Logics in Artificial Intelligence (JELIA 2023)
    _Dresden, Germany (September 21, 2023)_
