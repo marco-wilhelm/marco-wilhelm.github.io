@@ -14,7 +14,7 @@ Germany\
 
 ## News
 
-0. My paper **Activation-Based Conditional Inference (Extended Abstract)** co-authored with _Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald and Christoph Beierle_ has been accepted for [ACLAI 2023](https://lianda23.uma.es/).
+0. My paper **Decomposing Constraint Networks for Calculating c-Representations** co-authored with _Gabriele Kern-Isberner_ has been accepted for [AAAI 2024]([https://lianda23.uma.es/](https://aaai.org/aaai-conference/)).
 {: reversed="reversed"}
 
 ## Current Research Interests
