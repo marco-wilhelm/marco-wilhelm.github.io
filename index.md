@@ -14,7 +14,7 @@ Germany\
 
 ## News
 
-0. My paper **Decomposing Constraint Networks for Calculating c-Representations** co-authored with _Gabriele Kern-Isberner_ has been accepted for [AAAI 2024]([https://lianda23.uma.es/](https://aaai.org/aaai-conference/)).
+0. My paper **Decomposing Constraint Networks for Calculating c-Representations** co-authored with _Gabriele Kern-Isberner_ has been accepted for [AAAI 2024](https://aaai.org/aaai-conference/).
 {: reversed="reversed"}
 
 ## Current Research Interests
