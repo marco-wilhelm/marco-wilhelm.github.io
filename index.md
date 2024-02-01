@@ -14,6 +14,7 @@ Germany\
 
 ## News
 
+0. My paper **Core c-Representations and c-Core Closure for Conditional Belief Bases** co-authored with _Gabriele Kern-Isberner and Christoph Beierle__ has been accepted for [FoIKS 2024](https://foiks2024.github.io/).
 0. My paper **Decomposing Constraint Networks for Calculating c-Representations** co-authored with _Gabriele Kern-Isberner_ has been accepted for [AAAI 2024](https://aaai.org/aaai-conference/).
 {: reversed="reversed"}
 
