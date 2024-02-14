@@ -72,6 +72,7 @@ Germany\
    [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), 
    [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
+   [KR 2024](https://kr.org/KR2024/),
    [AAAI 2024](https://aaai.org/aaai-conference/),
    [ECSQARU 2023](https://www.cril.univ-artois.fr/ecsqaru23/),
    [KR 2023](https://kr.org/KR2023/),
@@ -80,7 +81,7 @@ Germany\
    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
    [ECSQARU 2021](https://ecsqaru.utia.cas.cz), 
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
-0. **Reviewer** of several journal articles, book series, and conference and workshop papers:
+0. **Reviewer** for several journals as well as book, conference and workshop series including
    [AMAI](https://www.springer.com/journal/10472) (Annals of Mathematics and Artificial Intelligence), 
    [Fuzzy Sets and Systems](https://www.sciencedirect.com/journal/fuzzy-sets-and-systems),
    [IfCoLog](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics),
