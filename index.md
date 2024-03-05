@@ -205,6 +205,12 @@ Germany\
 
 ## Scientific Talks
 
+0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
+   Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
+   _Virtual (March 4, 2024)_
+0. **Decomposing Constraint Networks for Calculating c-Representations**
+   38th Conference on Artificial Intelligence (AAAI 2024).
+   _Vancouver, Canada; Video Presentation (February 22-25, 2024)_ 
 0. **Decomposing Constraint Networks for Calculating c-Representations**
    Joint Workshop of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, Artificial Intelligence, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Dortmund, Germany (October 30, 2023)_   
@@ -237,7 +243,7 @@ Germany\
    _Dortmund, Germany (March 24, 2021); joint talk with Diana Howey_
 0. **Focused Inference and System P**
    35th Conference on Artificial Intelligence (AAAI 2021).
-   _Virtual Conference (February 2-9, 2021)_
+   _Virtual Conference; Video Presentation (February 2-9, 2021)_
 0. **Probabilistic Belief Fusion at Maximum Entropy by First-Order Embedding**
    18th International Workshop on Non-Monotonic Reasoning.
    _Virtual Workshop (September 13, 2020)_
