@@ -121,7 +121,7 @@ Germany\
    _Proceedings of the 38th Conference on Artificial Intelligence (AAAI), 2024_
 0. **Activation-Based Conditional Inference (Extended Abstract)**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald and Christoph Beierle.
-   _2nd Workshop on Challenges and Adequacy Conditions for Logics in the New Age of Artificial Intelligence (ACLAI), 2023 (unarchieved)_
+   _2nd Workshop on Challenges and Adequacy Conditions for Logics in the New Age of Artificial Intelligence (ACLAI) in FLAP Journal, 2023_
 0. **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations**
    <ins>Marco Wilhelm</ins>, Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck.
    _Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA), 2023_
