@@ -15,8 +15,6 @@ Germany\
 ## News
 
 0. My paper **Intrinsic Prioritization in Answer Set Programming Based on an Adapted Notion of Tolerance** co-authored with _Lars-Phillip Spiegel and Gabriele Kern-Isberner_ has been accepted for [FLAIRS 2024](https://www.flairs-37.info/).
-0. My paper **Core c-Representations and c-Core Closure for Conditional Belief Bases** co-authored with _Gabriele Kern-Isberner and Christoph Beierle_ has been accepted for [FoIKS 2024](https://foiks2024.github.io/).
-0. My paper **Decomposing Constraint Networks for Calculating c-Representations** co-authored with _Gabriele Kern-Isberner_ has been accepted for [AAAI 2024](https://aaai.org/aaai-conference/).
 {: reversed="reversed"}
 
 ## Current Research Interests
@@ -115,6 +113,12 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Christoph Beierle.
+   _Proceedings of the 13th International Symposium on Foundations of Information and Knowledge Systems (FOIKS), 2024_
+0. **Decomposing Constraint Networks for Calculating c-Representations**
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner.
+   _Proceedings of the 38th Conference on Artificial Intelligence (AAAI), 2024_
 0. **Activation-Based Conditional Inference (Extended Abstract)**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald and Christoph Beierle.
    _2nd Workshop on Challenges and Adequacy Conditions for Logics in the New Age of Artificial Intelligence (ACLAI), 2023 (unarchieved)_
@@ -145,7 +149,7 @@ Germany\
 0. **A Brief Introduction Into Activation-Based Conditional Inference**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
    _Proceedings of the 7th Workshop on Formal and Cognitive Reasoning (FCR), 2021_
-0. **Predicting Human Responses to Syllogism Tasks Following the Principle of Maximum Entropy**
+0. **Predicting Human Responses to Syllogism Tasks Following the Principle of Maximum Entropy (Abstract)**
    <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the Entropy 2021 Conference, 2021_
 0. **Focused Inference and System P**
