@@ -211,6 +211,9 @@ Germany\
 ## Scientific Talks
 
 0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
+   13th International Symposium on Foundations of Information and Knowledge Systems (FOIKS).
+   _Sheffield, United Kingdom (April 8, 2024)_
+0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
    Joint Doctoral Colloquium of the Working Groups Wissensbasierte Systeme, FernUniversität Hagen, and Information Engineering, TU Dortmund.
    _Virtual (March 4, 2024)_
 0. **Decomposing Constraint Networks for Calculating c-Representations**
