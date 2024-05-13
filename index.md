@@ -110,7 +110,7 @@ Germany\
 
 0. **Intrinsic Prioritization in Answer Set Programming Based on an Adapted Notion of Tolerance**
    <ins>Marco Wilhelm</ins>, Lars-Phillip Spiegel and Gabriele Kern-Isberner.
-   __Proceedings of the 37th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2024_
+   _Proceedings of the 37th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2024_
 0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
    <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Christoph Beierle.
    _Proceedings of the 13th International Symposium on Foundations of Information and Knowledge Systems (FOIKS), 2024_
