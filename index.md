@@ -12,11 +12,6 @@ Germany\
 **Phone:** +49-231-755-4992
 -->
 
-## News
-
-0. My paper **Intrinsic Prioritization in Answer Set Programming Based on an Adapted Notion of Tolerance** co-authored with _Lars-Phillip Spiegel and Gabriele Kern-Isberner_ has been accepted for [FLAIRS 2024](https://www.flairs-37.info/).
-{: reversed="reversed"}
-
 ## Current Research Interests
 
 - Artificial Intelligence (AI) 
@@ -113,6 +108,9 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **Intrinsic Prioritization in Answer Set Programming Based on an Adapted Notion of Tolerance**
+   <ins>Marco Wilhelm</ins>, Lars-Phillip Spiegel and Gabriele Kern-Isberner.
+   __Proceedings of the 37th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2024_
 0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
    <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Christoph Beierle.
    _Proceedings of the 13th International Symposium on Foundations of Information and Knowledge Systems (FOIKS), 2024_
