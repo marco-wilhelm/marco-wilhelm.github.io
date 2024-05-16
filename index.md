@@ -381,7 +381,8 @@ Germany\
    [Research Gate](https://www.researchgate.net/profile/Marco-Wilhelm-3), 
    [LinkedIn](https://www.linkedin.com/in/marco-wilhelm-37384a212/),
    [XING](https://www.xing.com/profile/Marco_Wilhelm10/cv)
-0. **Under the top 25% program committee members of AAAI 2021** ([AAAI-21-Program-Committee.pdf](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf))
+0. **TOP 3 FLAIRS 2024 Student Paper** ([FLAIRS 2024](https://www.flairs-37.info/); title: "Intrinsic Prioritization in Answer Set Programming Based on an Adapted Notion of Tolerance")
+0. **TOP 25% program committee members of AAAI 2021** ([AAAI-21-Program-Committee.pdf](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf))
 0. **TOP 3 FLAIRS 2019 Student Paper** ([FLAIRS 2019](https://sites.google.com/view/flairs-32homepage/awards); title: "Integrating Typed Model Counting into First-Order Maximum Entropy Computations and the Connection to Markov Logic Networks")
 0. **Webmaster** of [NMR Workshop Series](https://nmr.cs.tu-dortmund.de/), [KR 2022](https://kr2022.cs.tu-dortmund.de/), [FoIKS 2020](https://foiks2020.cs.tu-dortmund.de/), [KI 2017](ki2017.cs.tu-dortmund.de), [Adler Rauxel](http://adler-rauxel.de/)
 0. **Positions as a Student Assistant:** [Internship Office of the Faculty of Mechanical Engineering, TU Dortmund](https://mb.tu-dortmund.de/en/study/internship/) (from 2010 to 2012), [Professur für Gesundheitsförderung und Verbraucherbildung, TU Dortmund](http://professur-guv.de/institut/index.html) (from 2007 to 2011)
