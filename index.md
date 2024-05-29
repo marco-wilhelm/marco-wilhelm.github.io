@@ -208,6 +208,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **CASPER – Conditionals and ASP for Expert Reasoning. A Hybrid Knowledge-Based System Using Conditionals and ASP With Interactive Modelling Environment and Application to Warehouse Planning**
+   ASP workshop.
+   _Dortmund, Germany (May 28, 2024); joint talk with Andre Thevapalan_
 0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
    13th International Symposium on Foundations of Information and Knowledge Systems (FOIKS).
    _Sheffield, United Kingdom (April 8, 2024)_
