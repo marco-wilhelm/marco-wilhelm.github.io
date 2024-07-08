@@ -347,7 +347,7 @@ Germany\
 0. **Commonsense Reasoning** (exercises, in German, summer term 2019)
 0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, in German, winter term 2018/19)
 0. **Grundbegriffe der Theoretischen Informatik** (exercises, in German, summer term 2018)
-0. **Probabilistische Beschreibungslogiken** (seminar, in German, winter term 2014/15)
+0. **Probabilistische Beschreibungslogiken** (introductory seminar course assistance, in German, winter term 2014/15)
 0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, in German, winter term 2014/15)
 0. **Mathematik für Informatiker II** (exercises, in German, summer term 2014)
 0. **Darstellung, Verarbeitung und Erwerb von Wissen** (exercises, in German, winter term 2013/14)
