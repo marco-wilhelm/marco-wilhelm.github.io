@@ -12,6 +12,11 @@ Germany\
 **Phone:** +49-231-755-4992
 -->
 
+## News
+
+- The paper "Conditional Splittings of Belief Bases and Nonmonotonic Inference with c-Representations" written by Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, Jesse
+Heyninck, Gabriele Kern-Isberner, and myself has been accepted for [KR2024](https://kr.org/KR2024/).
+
 ## Current Research Interests
 
 - Artificial Intelligence (AI) 
