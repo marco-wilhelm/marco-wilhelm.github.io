@@ -14,8 +14,9 @@ Germany\
 
 ## News
 
-- The paper "Conditional Splittings of Belief Bases and Nonmonotonic Inference with c-Representations" written by Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, Jesse
-Heyninck, Gabriele Kern-Isberner, and myself has been accepted for [KR2024](https://kr.org/KR2024/).
+- My paper "Extraction of Conditional Belief Bases and the System Z Ranking Model From Multilayer Perceptrons for Binary Classification" co-authored with Alexander Hahn and Gabriele Kern-Isberner has been accepted for [NMR2024](https://nmr.krportal.org/2024/).
+- My paper "Conditional Splittings of Belief Bases and Nonmonotonic Inference with c-Representations" co-authored with Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, Jesse
+Heyninck, and Gabriele Kern-Isberner has been accepted for [KR2024](https://kr.org/KR2024/).
 
 ## Current Research Interests
 
@@ -83,6 +84,7 @@ Heyninck, Gabriele Kern-Isberner, and myself has been accepted for [KR2024](http
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 0. **Reviewer** for several journals as well as book, conference and workshop series including
    [AMAI](https://www.springer.com/journal/10472) (Annals of Mathematics and Artificial Intelligence), 
+   [AIR](https://link.springer.com/journal/10462) (Artificial Intelligence Review),
    [Fuzzy Sets and Systems](https://www.sciencedirect.com/journal/fuzzy-sets-and-systems),
    [IfCoLog](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics),
    [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning) (International Journal of Approximate Reasoning);
