@@ -14,7 +14,8 @@ Germany\
 
 ## News
 
-- My paper "Extraction of Conditional Belief Bases and the System Z Ranking Model From Multilayer Perceptrons for Binary Classification" co-authored with Alexander Hahn and Gabriele Kern-Isberner has been accepted for [NMR2024](https://nmr.krportal.org/2024/).
+- My paper "A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge" co-authored with Andre Thevapalan, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl has been accepted for [TAASP2024](https://taasp.at/2024/).
+- My paper "Extraction of Conditional Belief Bases and the System Z Ranking Model From Multilayer Perceptrons for Binary Classification" co-authored with Alexander Hahn, and Gabriele Kern-Isberner has been accepted for [NMR2024](https://nmr.krportal.org/2024/).
 
 ## Current Research Interests
 
