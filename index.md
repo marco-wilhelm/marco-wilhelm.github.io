@@ -116,20 +116,23 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **Extraction of Conditional Belief Bases and the System Z Ranking Model From Multilayer Perceptrons for Binary Classification**
+   <ins>Marco Wilhelm</ins>, Alexander Hahn, and Gabriele Kern-Isberner.
+   _Proceedings of the 22nd International Workshop on Non-Monotonic Reasoning (NMR), 2024_
 0. **Conditional Splittings of Belief Bases and Nonmonotonic Inference with c-Representations**
-   Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, <ins>Marco Wilhelm</ins>, Jesse Heyninck, Gabriele Kern-Isberner.
+   Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, <ins>Marco Wilhelm</ins>, Jesse Heyninck, and Gabriele Kern-Isberner.
    _Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning (KR), 2024_
 0. **Intrinsic Prioritization in Answer Set Programming Based on an Adapted Notion of Tolerance**
-   <ins>Marco Wilhelm</ins>, Lars-Phillip Spiegel and Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins>, Lars-Phillip Spiegel, and Gabriele Kern-Isberner.
    _Proceedings of the 37th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2024_
 0. **Core c-Representations and c-Core Closure for Conditional Belief Bases**
-   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, and Christoph Beierle.
    _Proceedings of the 13th International Symposium on Foundations of Information and Knowledge Systems (FOIKS), 2024_
 0. **Decomposing Constraint Networks for Calculating c-Representations**
-   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the 38th Conference on Artificial Intelligence (AAAI), 2024_
 0. **Activation-Based Conditional Inference (Extended Abstract)**
-   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald and Christoph Beierle.
+   <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
    _2nd Workshop on Challenges and Adequacy Conditions for Logics in the New Age of Artificial Intelligence (ACLAI), 2023 (unarchieved)_
 0. **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations**
    <ins>Marco Wilhelm</ins>, Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck.
