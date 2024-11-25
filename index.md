@@ -70,6 +70,7 @@ Germany\
    [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), 
    [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
+   [ECSQARU 2025](http://ecsqaru2025.krportal.org/),
    [FLAIRS UR-Track 2025](https://www.flairs-38.info/),
    [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/),
    [KR 2024](https://kr.org/KR2024/),
