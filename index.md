@@ -12,9 +12,11 @@ Germany\
 **Phone:** +49-231-755-4992
 -->
 
+<!--
 ## News
 
 - My paper "A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge" co-authored with Andre Thevapalan, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl has been accepted for [TAASP2024](https://taasp.at/2024/).
+-->
 
 ## Current Research Interests
 
@@ -116,6 +118,9 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge**
+   Andre Thevapalan, <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Pascal Kaiser, Moritz Roidl.
+   _Proceedings of the 7th Workshop on Trends and Applications of Answer Set Programming (TAASP), 2024 (not archived)_
 0. **Extraction of Conditional Belief Bases and the System Z Ranking Model From Multilayer Perceptrons for Binary Classification**
    <ins>Marco Wilhelm</ins>, Alexander Hahn, and Gabriele Kern-Isberner.
    _Proceedings of the 22nd International Workshop on Non-Monotonic Reasoning (NMR), 2024_
@@ -133,7 +138,7 @@ Germany\
    _Proceedings of the 38th Conference on Artificial Intelligence (AAAI), 2024_
 0. **Activation-Based Conditional Inference (Extended Abstract)**
    <ins>Marco Wilhelm</ins>, Diana Howey, Gabriele Kern-Isberner, Kai Sauerwald, and Christoph Beierle.
-   _2nd Workshop on Challenges and Adequacy Conditions for Logics in the New Age of Artificial Intelligence (ACLAI), 2023 (unarchieved)_
+   _2nd Workshop on Challenges and Adequacy Conditions for Logics in the New Age of Artificial Intelligence (ACLAI), 2023 (not archived)_
 0. **Splitting Techniques for Conditional Belief Bases in the Context of c-Representations**
    <ins>Marco Wilhelm</ins>, Meliha Sezgin, Gabriele Kern-Isberner, Jonas Haldimann, Christoph Beierle, and Jesse Heyninck.
    _Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA), 2023_
@@ -169,7 +174,7 @@ Germany\
    _Proceedings of the 35th Conference on Artificial Intelligence (AAAI), 2021_
 0. **Probabilistic Belief Fusion at Maximum Entropy by First-Order Embedding**
    <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
-   _Proceedings of the 18th International Workshop on Non-Monotonic Reasoning (NMR), 2020_
+   _Proceedings of the 18th International Workshop on Non-Monotonic Reasoning (NMR), 2020 (not archived)_
 0. **Context-Based Inferences from Probabilistic Conditionals with Default Negation at Maximum Entropy**
    <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
    _Proceedings of the 33rd International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2020_
@@ -187,7 +192,7 @@ Germany\
    _Proceedings of the 16th Edition of the European Conference on Logics in Artificial Intelligence (JELIA), 2019_
 0. **Evaluating Reactive ASP by Formal Belief Revision**
    Jonas Philipp Haldimann, <ins>Marco Wilhelm</ins>, and Gabriele Kern-Isberner.
-   _Workshop on Hybrid Reasoning and Learning (HRL) at the 16th International Conference on Principles of Knowledge Representation and Reasoning (KR), 2018_
+   _Workshop on Hybrid Reasoning and Learning (HRL) at the 16th International Conference on Principles of Knowledge Representation and Reasoning (KR), 2018 (not archived)_
 0. **A Generalized Iterative Scaling Algorithm for Maximum Entropy Model Computations Respecting Probabilistic Independencies**
    <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Marc Finthammer, and Christoph Beierle.
    _Proceedings of the 10th International Symposium on Foundations of Information and Knowledge Systems (FOIKS), 2018_
@@ -217,7 +222,7 @@ Germany\
    _Proceedings of the 27th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2014_
 0. **Probabilistic Knowledge Representation Using Gröbner Basis Theory**
    Gabriele Kern-Isberner, <ins>Marco Wilhelm</ins>, and Christoph Beierle.
-   _13th International Symposium on Artificial Intelligence and Mathematics (ISAIM), 2014_
+   _13th International Symposium on Artificial Intelligence and Mathematics (ISAIM), 2014 (not archived)_
 {: reversed="reversed"}
 
 ## Scientific Talks
