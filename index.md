@@ -18,7 +18,7 @@ Germany\
 - My paper "A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge" co-authored with Andre Thevapalan, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl has been accepted for [TAASP2024](https://taasp.at/2024/).
 -->
 
-## Current Research Interests
+## Research Interests
 
 - Artificial Intelligence (AI) 
 - Knowledge Representation and Reasoning (KR) 
@@ -29,24 +29,30 @@ Germany\
 
 ## Positions
 
-0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
-   research group on [Information Engineering](https://logic-in.cs.tu-dortmund.de/) 
+0. **TU Dortmund, Dept. of Computer Science**\
+   Research assistant in the research group on [Information Engineering](https://logic-in.cs.tu-dortmund.de/) 
    led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
-0. **Research Assistant** at the Department of Statistics, TU Dortmund,
-   research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
-   led by [Prof. Dr. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html) (from Mar 2022 to Sep 2022)
-0. **Research Assistant** at the Department of Computer Science, TU Dortmund,
-   research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/)
-   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (from Oct 2012 to Feb 2022)
+0. **TU Dortmund, Dept. of Statistics**\
+   Research assistant in the research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
+   led by [Prof. Dr. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html) (Mar 2022 - Sept 2022)
+0. **TU Dortmund, Dept. of Computer Science**\
+   Research assistant in the research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/)
+   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (Oct 2012 - Feb 2022)
 {: reversed="reversed"}
 
 ## Education
 
-0. **PhD Student** at the Department of Computer Science, TU Dortmund (since 2015, research topic: "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy")
-0. **Student** at the Department of Mathematics, TU Dortmund (from 2006 to 2012, Diploma degree in mathematics in 2012, thesis: "Der Gröbner-Walk", supervisors: [Prof. Dr. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Dr. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/))
+0. **Computer science studies at TU Dortmund**
+   Degree: Dr. rer. nat. (summa cum laude)
+   Thesis: "Probabilistic Inferences Under Maximum Entropy for Description Logics"
+   Supervisors: [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) and [Prof. Dr. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
+0. **Mathematics studies with a minor in physics at TU Dortmund**
+   Degree: Dipl.-Math.
+   Thesis: "Der Gröbner Walk" (in German)
+   Supervisors: [Prof. Dr. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Dr. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/))
 {: reversed="reversed"}
 
-## Research Projects
+## Participation in Research Projects
 
 0. **DFG Project (Grant KE 1413/14-1): Conditionals and ASP for Expert Reasoning (CASPER)**, 
    "Ein hybrides wissensbasiertes System auf der Basis von Konditionalen und ASP mit interaktiver Modellierungsumgebung und Anwendung auf Lagerplanung"
@@ -55,13 +61,13 @@ Germany\
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**,
    Research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/))
    led by [Prof. Fani Lauermann, PhD](https://sites.google.com/site/fanilauermann/home) and 
-   [Prof. Dr. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (from Mar 2022 to Sep 2022)
+   [Prof. Dr. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (Mar 2022 - Sept 2022)
 0. **DFG Research Unit 1513: Hybrid Reasoning for Intelligent Systems (HYBRIS)**, 
    Subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" 
    ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org)) 
    led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/)  and
    [Prof. Dr. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
-   (from 2015 to 2019)
+   (2015 - 2019)
 {: reversed="reversed"}
 
 ## Scientific Service
@@ -105,14 +111,14 @@ Germany\
    [Dortmund Data Science Center](https://www.statistik.tu-dortmund.de/dodsc.html) at the TU Dortmund (since 2022)
 0. **Former Member** of 
    [Qualitätsverbesserungskommission (QUEST)](https://www.cs.tu-dortmund.de/nps/de/Einrichtungen/Gremien/QUEST/index.html) 
-   at the Department of Computer Science, TU Dortmund (from 2015 to 2022)
+   at the Department of Computer Science, TU Dortmund (2015 - 2022)
 {: reversed="reversed"}
 
 ## Tutorials
 
 0. **Statistical Relational AI - Exploiting Symmetries**
    together with _Tanya Braun, University of Münster, and Marcel Gehrke, University of Lübeck_
-   at [KR 2023](https://kr.org/KR2023/) in Rhodes, Greece (September 4, 2023). See also the
+   at [KR 2023](https://kr.org/KR2023/) in Rhodes, Greece (Sept 4, 2023). See also the
    [tutorial website](https://www.uni-muenster.de/Informatik.AGBraun/en/research/tutorials/kr-23.html).
 {: reversed="reversed"}
 
@@ -373,7 +379,7 @@ Germany\
 0. **Mathematik für Informatiker I** (exercises + tutorial, in German, winter term 2012/13)
 {: reversed="reversed"}
 
-## Co-Supervised Theses
+## Co-Supervised Theses (successfully completed)
 
 0. **Extraktion konditionaler Wissensbasen aus neuronalen Netzen** (Alexander Hahn, Master thesis, in German, 2023)
 0. **Priorisierung von Antwortmengen mit Rangfunktionen, insbesondere auf Basis des Toleranzbegriffs** (Lars-Phillip Spiegel, Master thesis, in German, 2023)
