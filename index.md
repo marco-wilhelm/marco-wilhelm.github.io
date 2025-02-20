@@ -30,41 +30,42 @@ Germany\
 ## Positions
 
 0. **TU Dortmund, Dept. of Computer Science**\
-   Research assistant in the research group on [Information Engineering](https://logic-in.cs.tu-dortmund.de/) 
+   Research associate in the research group [Information Engineering](https://logic-in.cs.tu-dortmund.de/) 
    led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
 0. **TU Dortmund, Dept. of Statistics**\
-   Research assistant in the research group on [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
+   Research associate in the research group [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
    led by [Prof. Dr. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html),
    research data manager of FAIR ([www.fair.tu-dortmund.de](https://fair.tu-dortmund.de/en/)) (Mar 2022 - Sept 2022)
 0. **TU Dortmund, Dept. of Computer Science**\
-   Research assistant in the research group on [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/)
+   Research associate in the research group [Knowledge Engineering](https://ls1-www.cs.tu-dortmund.de/en/)
    led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (Oct 2012 - Feb 2022)
 {: reversed="reversed"}
 
 ## Education
 
-0. **Computer science studies at TU Dortmund**\
+0. **Computer science studies, TU Dortmund**\
    Degree: Dr. rer. nat. (summa cum laude)\
    Thesis: "Probabilistic Inferences Under Maximum Entropy for Description Logics"\
    Supervisors: [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) and [Prof. Dr. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
-0. **Mathematics studies with a minor in physics at TU Dortmund**\
+0. **Mathematics studies with a minor in physics, TU Dortmund**\
    Degree: Dipl.-Math.\
    Thesis: "Der Gröbner Walk" (in German)\
-   Supervisors: [Prof. Dr. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Dr. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/))
+   Supervisors: [Prof. Dr. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Dr. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/)
 {: reversed="reversed"}
 
 ## Participation in Research Projects
 
-0. **DFG Project (Grant KE 1413/14-1): Conditionals and ASP for Expert Reasoning (CASPER)**\
-   "Ein hybrides wissensbasiertes System auf der Basis von Konditionalen und ASP mit interaktiver Modellierungsumgebung und Anwendung auf Lagerplanung"
+0. **Conditionals and ASP for Expert Reasoning (CASPER)**\
+   Funded by the German Research Foundation (DFG Grant KE 1413/14-1),
    led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
    (since Oct 2022)
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**\
+   funded by the Ministry of Culture and Science of the State of Northrhine Westphalia (Germany),
    led by [Prof. Fani Lauermann, PhD](https://sites.google.com/site/fanilauermann/home) and 
    [Prof. Dr. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (Mar 2022 - Sept 2022)
-0. **DFG Research Unit 1513: Hybrid Reasoning for Intelligent Systems (HYBRIS)**\
+0. **Hybrid Reasoning for Intelligent Systems (HYBRIS)**\
    Subprojekt A3 "Probabilistic Description Logics Based on the Aggregating Semantics and the Principle of Maximum Entropy" 
-   ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org)) 
+   ([www.hybrid-reasoning.org](https://www.hybrid-reasoning.org)), funded by the German Research Foundation (DFG Research Unit 1513),
    led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/)  and
    [Prof. Dr. Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader)
    (2015 - 2019)
@@ -364,19 +365,32 @@ Germany\
 ## Teaching Activities 
 **(at the Department of Computer Science, TU Dortmund)**
 
-0. **Darstellung, Verarbeitung und Erwerb von Wissen**\ (excersises, in German, winter term 2021/22)
-0. **Mathematik für Informatiker II**\ (excercises, in German, summer term 2021)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen**\ (exercises, in German, winter term 2020/21)
-0. **Commonsense Reasoning**\ (exercises, in German, summer term 2020)
-0. **Commonsense Reasoning**\ (exercises, in German, summer term 2019)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen**\ (exercises, in German, winter term 2018/19)
-0. **Grundbegriffe der Theoretischen Informatik**\ (exercises, in German, summer term 2018)
-0. **Probabilistische Beschreibungslogiken**\ (introductory seminar course assistance, in German, winter term 2014/15)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen**\ (exercises, in German, winter term 2014/15)
-0. **Mathematik für Informatiker II**\ (exercises, in German, summer term 2014)
-0. **Darstellung, Verarbeitung und Erwerb von Wissen**\ (exercises, in German, winter term 2013/14)
-0. **Mathematik für Informatiker II**\ (exercises + tutorial, in German, summer term 2013)
-0. **Mathematik für Informatiker I**\ (exercises + tutorial, in German, winter term 2012/13)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen**\
+   (excersises, in German, winter term 2021/22)
+0. **Mathematik für Informatiker II**\
+   (excercises, in German, summer term 2021)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen**\
+   (exercises, in German, winter term 2020/21)
+0. **Commonsense Reasoning**\
+   (exercises, in German, summer term 2020)
+0. **Commonsense Reasoning**\
+   (exercises, in German, summer term 2019)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen**\
+   (exercises, in German, winter term 2018/19)
+0. **Grundbegriffe der Theoretischen Informatik**\
+   (exercises, in German, summer term 2018)
+0. **Probabilistische Beschreibungslogiken**\
+   (introductory seminar course assistance, in German, winter term 2014/15)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen**\
+   (exercises, in German, winter term 2014/15)
+0. **Mathematik für Informatiker II**\
+   (exercises, in German, summer term 2014)
+0. **Darstellung, Verarbeitung und Erwerb von Wissen**\
+   (exercises, in German, winter term 2013/14)
+0. **Mathematik für Informatiker II**\
+   (exercises + tutorial, in German, summer term 2013)
+0. **Mathematik für Informatiker I**\
+   (exercises + tutorial, in German, winter term 2012/13)
 {: reversed="reversed"}
 
 ## Co-Supervised Theses (successfully completed)
