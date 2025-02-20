@@ -60,7 +60,7 @@ Germany\
    led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) 
    (since Oct 2022)
 0. **From Prediction to Agile Interventions in the Social Sciences (FAIR)**\
-   funded by the Ministry of Culture and Science of the State of Northrhine Westphalia (Germany),
+   Funded by the Ministry of Culture and Science of the State of Northrhine Westphalia (Germany),
    led by [Prof. Fani Lauermann, PhD](https://sites.google.com/site/fanilauermann/home) and 
    [Prof. Dr. Philipp Doebler](https://www.statistik.tu-dortmund.de/doebler00.html) (Mar 2022 - Sept 2022)
 0. **Hybrid Reasoning for Intelligent Systems (HYBRIS)**\
