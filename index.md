@@ -397,8 +397,6 @@ Germany\
 {: reversed="reversed"}
 
 ## Co-Supervised Theses (successfully completed)
-
-<details><summary>Full list</summary>
   
 0. **Extraktion konditionaler Wissensbasen aus neuronalen Netzen** (Alexander Hahn, Master thesis, in German, 2023)
 0. **Priorisierung von Antwortmengen mit Rangfunktionen, insbesondere auf Basis des Toleranzbegriffs** (Lars-Phillip Spiegel, Master thesis, in German, 2023)
@@ -417,13 +415,6 @@ Germany\
 0. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, Master thesis, in German, 2015)
 0. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, Bachelor thesis, in German, 2015)
 {: reversed="reversed"}
-
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
 ## Misc
 
