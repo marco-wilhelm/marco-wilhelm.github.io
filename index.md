@@ -12,11 +12,9 @@ Germany\
 **Phone:** +49-231-755-4992
 -->
 
-<!--
 ## News
 
-- My paper "A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge" co-authored with Andre Thevapalan, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl has been accepted for [TAASP2024](https://taasp.at/2024/).
--->
+- My paper "Integrated Use of System Z for Preferred Answer Set Programming" co-authored with Andre Thevapalan and Gabriele Kern-Isberner has been accepted for [FLAIRS2025](https://www.flairs-38.info/).
 
 ## Research Interests
 
