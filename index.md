@@ -397,8 +397,9 @@ Germany\
    (exercises + tutorial, in German, winter term 2012/13)
 {: reversed="reversed"}
 
-## Co-Supervised Theses (successfully completed)
-  
+## Co-Supervised Theses
+
+0. **Antwortmengenprogrammierung mit Constraints: das clingcon System** (Lukas Gründer, Bachelor thesis, in German, 2025)  
 0. **Extraktion konditionaler Wissensbasen aus neuronalen Netzen** (Alexander Hahn, Master thesis, in German, 2023)
 0. **Priorisierung von Antwortmengen mit Rangfunktionen, insbesondere auf Basis des Toleranzbegriffs** (Lars-Phillip Spiegel, Master thesis, in German, 2023)
 0. **c-Repräsentationen in LEG-Netzen mit positiven Impact-Werten** (Arthur Franke, Master thesis, in German, 2022)
