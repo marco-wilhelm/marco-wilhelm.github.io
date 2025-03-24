@@ -236,6 +236,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **News from Conditionals and Ranking Functions**
+   2nd Logic and AI Meet-up in Hagen.
+   _Hagen, Germany (March 19, 2025); joint talk with Gabriele Kern-Isberner, Andre Thevapalan, and Alexander Hahn_
 0. **CASPER – Conditionals and ASP for Expert Reasoning. A Hybrid Knowledge-Based System Using Conditionals and ASP With Interactive Modelling Environment and Application to Warehouse Planning**
    ASP workshop.
    _Dortmund, Germany (May 28, 2024); joint talk with Andre Thevapalan_
