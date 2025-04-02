@@ -1,15 +1,16 @@
-## TU Dortmund
+## Federal Institute for Occupational Safety and Health
 
-**Department of Computer Science**
+**Artificial Intelligence in Work Systems**
 
-Otto-Hahn-Straße 12\
-44227 Dortmund\
+Friedrich-Henkel-Weg 1-25\
+44149 Dortmund\
 Germany\
+[www.baua.de](https://www.baua.de)
 \
-**Room:** 3.015 (consultation hour by appointment)\
-**Email:** marco.wilhelm@tu-dortmund.de\
+
+**Email:** wilhelm.marco@baua.bund.de\
 <!--
-**Phone:** +49-231-755-4992
+**Phone:** +49-231-9071-2426
 -->
 
 ## News
@@ -25,11 +26,11 @@ Germany\
 - Probabilistic Relational Reasoning (MaxEnt and StarAI)
 - Cognitive Logics (CL)
 
-## Positions
+## Former Positions
 
 0. **TU Dortmund, Dept. of Computer Science**\
    Research associate in the research group [Information Engineering](https://logic-in.cs.tu-dortmund.de/) 
-   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (since Oct 2022)
+   led by [Prof. Dr. Gabriele Kern-Isberner](https://logic-in.cs.tu-dortmund.de/personen/profs/gabriele-kern-isberner/) (Oct 2022 - Mar 2025)
 0. **TU Dortmund, Dept. of Statistics**\
    Research associate in the research group [Mathematical Statistics with Applications in Biometrics](https://www.statistik.tu-dortmund.de/biometrics.html)
    led by [Prof. Dr. Katja Ickstadt](https://www.statistik.tu-dortmund.de/ickstadt.html),
