@@ -6,7 +6,6 @@ Friedrich-Henkel-Weg 1-25\
 44149 Dortmund\
 Germany\
 [www.baua.de](https://www.baua.de)\
-\
 
 **Email:** wilhelm.marco@baua.bund.de\
 <!--
