@@ -126,7 +126,7 @@ Germany\
 
 0. **Probabilistic Inferences Under Maximum Entropy for Description Logics**
    <ins>Marco Wilhelm</ins>.
-   _PhD Thesis, TU Dortmund_
+   _PhD Thesis, TU Dortmund, 2024_
 0. **A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge**
    Andre Thevapalan, <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Pascal Kaiser, Moritz Roidl.
    _Proceedings of the 7th Workshop on Trends and Applications of Answer Set Programming (TAASP), 2024 (not archived)_
