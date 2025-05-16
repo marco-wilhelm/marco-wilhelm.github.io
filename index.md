@@ -12,10 +12,12 @@ Germany\
 **Phone:** +49-231-9071-2426
 -->
 
+<!--
 ## News
 
 - My paper "Integrated Use of System Z for Preferred Answer Set Programming" co-authored with Andre Thevapalan and Gabriele Kern-Isberner has been accepted for [FLAIRS2025](https://www.flairs-38.info/).
-
+-->
+  
 ## Research Interests
 
 - Artificial Intelligence (AI) 
@@ -124,6 +126,9 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **Integrated Use of System Z for Preferred Answer Set Programming**
+   <ins>Marco Wilhelm</ins>, Andre Thevapalan, Gabriele Kern-Isberner.
+   _Proceedings of the 38th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2025_
 0. **Probabilistic Inferences Under Maximum Entropy for Description Logics**
    <ins>Marco Wilhelm</ins>.
    _PhD Thesis, TU Dortmund, 2024_
