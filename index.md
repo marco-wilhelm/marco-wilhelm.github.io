@@ -241,6 +241,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **Integrated Use of System Z for Preferred Answer Set Programming**
+   38th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2025).
+   _Daytona Beach, Florida, USA (May 22, 2025)_
 0. **News from Conditionals and Ranking Functions**
    2nd Logic and AI Meet-up in Hagen.
    _Hagen, Germany (March 19, 2025); joint talk with Gabriele Kern-Isberner, Andre Thevapalan, and Alexander Hahn_
