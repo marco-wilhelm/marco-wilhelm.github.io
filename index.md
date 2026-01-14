@@ -80,6 +80,7 @@ Germany\
    [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
    [KR 2026](https://kr.org/KR2026/),
+   [KR 2026 MoST-Workshop](https://kr.org/KR2026/tutorial_and_workshop.html),
    [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/),
    [AAAI 2026 AIA Track](https://aaai.org/conference/aaai/aaai-26/aia-call/),
    [KR 2025](https://kr.org/KR2025/),
