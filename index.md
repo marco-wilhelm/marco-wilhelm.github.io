@@ -79,6 +79,7 @@ Germany\
    [FOIKS 2020](https://foiks2020.cs.tu-dortmund.de), 
    [KI 2017](https://ki2017.tu-dortmund.de)
 0. **Program Committee Member** of 
+   [IJCAI-ECAI 2026](https://2026.ijcai.org),
    [KR 2026](https://kr.org/KR2026/),
    [KR 2026 MoST-Workshop](https://kr.org/KR2026/tutorial_and_workshop.html),
    [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/),
