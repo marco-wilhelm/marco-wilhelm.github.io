@@ -246,6 +246,12 @@ Germany\
 
 ## Scientific Talks
 
+0. **Artificial Intelligence Research @ BAuA**
+   3rd Logic and AI Meet-up.
+   _Hagen, Germany (March 19, 2026)_
+0. **Explainable AI for Transparent Task Allocation in Algorithmic Management**
+   BRAIN-GEM Winter School.
+   _Dortmund, Germany (December 3, 2025)_
 0. **Integrated Use of System Z for Preferred Answer Set Programming**
    38th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2025).
    _Daytona Beach, Florida, USA (May 22, 2025)_
