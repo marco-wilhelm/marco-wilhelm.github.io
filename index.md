@@ -131,14 +131,17 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **c-Core closure and syntax splitting for conditional belief bases**
+   <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, and Christoph Beierle.
+   _In: The Knowledge Engineering Review, 2026_
 0. **Integrated Use of System Z for Preferred Answer Set Programming**
-   <ins>Marco Wilhelm</ins>, Andre Thevapalan, Gabriele Kern-Isberner.
+   <ins>Marco Wilhelm</ins>, Andre Thevapalan, and Gabriele Kern-Isberner.
    _Proceedings of the 38th International Florida Artificial Intelligence Research Society Conference (FLAIRS), 2025_
 0. **Probabilistic Inferences Under Maximum Entropy for Description Logics**
    <ins>Marco Wilhelm</ins>.
    _PhD Thesis, TU Dortmund, 2024_
 0. **A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge**
-   Andre Thevapalan, <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Pascal Kaiser, Moritz Roidl.
+   Andre Thevapalan, <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, Pascal Kaiser, and Moritz Roidl.
    _Proceedings of the 7th Workshop on Trends and Applications of Answer Set Programming (TAASP), 2024 (not archived)_
 0. **Extraction of Conditional Belief Bases and the System Z Ranking Model From Multilayer Perceptrons for Binary Classification**
    <ins>Marco Wilhelm</ins>, Alexander Hahn, and Gabriele Kern-Isberner.
