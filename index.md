@@ -131,6 +131,9 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **Safely Decomposing Conditional Belief Bases Into c-LEG Networks**
+   Gabriele Kern-Isberner, Alexander Hahn, Lars-Phillip Spiegel, <ins>Marco Wilhelm</ins>, Christoph Beierle.
+   _Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026 (to appear)_
 0. **c-Core closure and syntax splitting for conditional belief bases**
    <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, and Christoph Beierle.
    _In: The Knowledge Engineering Review, 2026_
