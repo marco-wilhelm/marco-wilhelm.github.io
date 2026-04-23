@@ -53,6 +53,13 @@ Germany\
    Supervisors: [Prof. Dr. Hans Michael Möller](http://www.mathematik.tu-dortmund.de/de/personen/person/Hans-Michael+Moeller.html) and [Prof. Dr. Franz B. Kalhoff](http://www.mathematik.tu-dortmund.de/~kalhoff/)
 {: reversed="reversed"}
 
+## Own Research Projects
+
+0. **Explainable AI for Transparent Task Allocation in Algorithmic Management**\
+   [https://www.baua.de/EN/Research/Research-projects/f2611](https://www.baua.de/EN/Research/Research-projects/f2611)\
+   Funded by the Federal Institute for Occupational Health and Safety (since Apr 2026)
+{: reversed="reversed"}
+
 ## Participation in Research Projects
 
 0. **Conditionals and ASP for Expert Reasoning (CASPER)**\
@@ -450,7 +457,6 @@ Germany\
 
 0. **ORCiD:** 0000-0003-0266-2334
 0. **Online Profiles:** 
-   [TU Dortmund](https://www.tu-dortmund.de/personensuche/?tx_tudoitmc_personsearch%5Bq%5D=Marco%20Wilhelm),
    [DBLP](https://dblp.org/pid/146/3146.html),
    [Google Scholar](https://scholar.google.com/citations?user=gMj0sNMAAAAJ&hl=de),
    [Research Gate](https://www.researchgate.net/profile/Marco-Wilhelm-3), 
