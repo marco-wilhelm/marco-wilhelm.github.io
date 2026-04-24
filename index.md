@@ -138,6 +138,9 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **Conditional Syntax and Semantic Splittings of Strongly and Weakly Consistent Belief Bases**
+   Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, <ins>Marco Wilhelm</ins>, Jesse Heyninck, and Gabriele Kern-Isberner.
+   _In: The European Journal on Artificial Intelligence, 2026_
 0. **Safely Decomposing Conditional Belief Bases Into c-LEG Networks**
    Gabriele Kern-Isberner, Alexander Hahn, Lars-Phillip Spiegel, <ins>Marco Wilhelm</ins>, Christoph Beierle.
    _Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026 (to appear)_
