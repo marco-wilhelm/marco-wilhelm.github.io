@@ -110,7 +110,8 @@ Germany\
    [Fuzzy Sets and Systems](https://www.sciencedirect.com/journal/fuzzy-sets-and-systems),
    [IfCoLog](https://collegepublications.co.uk/ifcolog/) (Journal of Applied Logics),
    [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning) (International Journal of Approximate Reasoning);
-   [LAR](https://www.springer.com/series/11547) (Logic, Argumentation and Reasoning);
+   [LAR](https://www.springer.com/series/11547) (Logic, Argumentation and Reasoning)
+   [npj Systems Biology and Applications](https://www.nature.com/npjsba/);
    [AAAI](https://www.aaai.org/Conferences/conferences.php), 
    [ECSQARU](https://www.ecsqaru.org/), 
    [IJCAI](https://www.ijcai.org/), 
