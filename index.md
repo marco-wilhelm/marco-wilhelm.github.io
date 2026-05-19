@@ -139,6 +139,9 @@ Germany\
 
 ## Peer-Reviewed Publications
 
+0. **Knowledge Engineering and Reasoning with Answer Set Programs and Conditional Belief Bases**
+   Alexander Hahn, Andre Thevapalan, Gabriele Kern-Isberner, Christoph Beierle, Lars-Phillip Spiegel, and <ins>Marco Wilhelm</ins>.
+   _Proceedings of the 24th International Workshop on Non-Monotonic Reasoning (NMR), 2026 (to appear)_
 0. **Conditional Syntax and Semantic Splittings of Strongly and Weakly Consistent Belief Bases**
    Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, <ins>Marco Wilhelm</ins>, Jesse Heyninck, and Gabriele Kern-Isberner.
    _In: The European Journal on Artificial Intelligence, 2026_
