@@ -116,6 +116,7 @@ Germany\
    [ECSQARU](https://www.ecsqaru.org/), 
    [IJCAI](https://www.ijcai.org/), 
    [KR](https://kr.org/),
+   [MoST](https://most.cs.tu-dortmund.de/),
    [NMR](https://nmr.cs.tu-dortmund.de/),
    [PRICAI](https://www.pricai.org/)
 {: reversed="reversed"}
