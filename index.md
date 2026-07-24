@@ -143,7 +143,7 @@ Germany\
 
 0. **c-Core Revision for Conditional Belief Bases**
    <ins>Marco Wilhelm</ins> and Gabriele Kern-Isberner.
-   _Proceedings of the 49th German Conference on Artificial Intelligence (KI), 2026 (to appear)_
+   _Proceedings of the 49th German Conference on Artificial Intelligence (KI), 2026_
 0. **Knowledge Engineering and Reasoning with Answer Set Programs and Conditional Belief Bases**
    Alexander Hahn, Andre Thevapalan, Gabriele Kern-Isberner, Christoph Beierle, Lars-Phillip Spiegel, and <ins>Marco Wilhelm</ins>.
    _Proceedings of the 24th International Workshop on Non-Monotonic Reasoning (NMR), 2026 (to appear)_
