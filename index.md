@@ -146,13 +146,13 @@ Germany\
    _Proceedings of the 49th German Conference on Artificial Intelligence (KI), 2026_
 0. **Knowledge Engineering and Reasoning with Answer Set Programs and Conditional Belief Bases**
    Alexander Hahn, Andre Thevapalan, Gabriele Kern-Isberner, Christoph Beierle, Lars-Phillip Spiegel, and <ins>Marco Wilhelm</ins>.
-   _Proceedings of the 24th International Workshop on Non-Monotonic Reasoning (NMR), 2026 (to appear)_
+   _Proceedings of the 24th International Workshop on Non-Monotonic Reasoning (NMR), 2026_
 0. **Conditional Syntax and Semantic Splittings of Strongly and Weakly Consistent Belief Bases**
    Christoph Beierle, Lars-Phillip Spiegel, Jonas Haldimann, <ins>Marco Wilhelm</ins>, Jesse Heyninck, and Gabriele Kern-Isberner.
    _In: The European Journal on Artificial Intelligence, 2026_
 0. **Safely Decomposing Conditional Belief Bases Into c-LEG Networks**
    Gabriele Kern-Isberner, Alexander Hahn, Lars-Phillip Spiegel, <ins>Marco Wilhelm</ins>, Christoph Beierle.
-   _Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026 (to appear)_
+   _Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026_
 0. **c-Core closure and syntax splitting for conditional belief bases**
    <ins>Marco Wilhelm</ins>, Gabriele Kern-Isberner, and Christoph Beierle.
    _In: The Knowledge Engineering Review, 2026_
@@ -271,6 +271,9 @@ Germany\
 
 ## Scientific Talks
 
+0. **c-Core Revision for Conditional Belief Bases**
+   49th German Conference on Artificial Intelligence.
+   _Bremen, Germany (August 14, 2026)_
 0. **Artificial Intelligence Research @ BAuA**
    3rd Logic and AI Meet-up.
    _Hagen, Germany (March 19, 2026)_
