@@ -446,10 +446,9 @@ Germany\
 {: reversed="reversed"}
 
 ## Co-Supervised Theses
-<!--
-0. **Implementation and Evaluation of KLM-Style Defeasible Entailment and Explanation Algorithms** (Chipo Hamayobe, Master thesis, University of Cape Town, 2026)
--->
+
 0. **Antwortmengenprogrammierung mit Constraints: das clingcon System** (Lukas Gründer, Bachelor thesis, TU Dortmund, in German, 2025)  
+0. **Implementation and Evaluation of KLM-Style Defeasible Entailment and Explanation Algorithms** (Chipo Hamayobe, Master thesis, University of Cape Town, 2024)
 0. **Extraktion konditionaler Wissensbasen aus neuronalen Netzen** (Alexander Hahn, Master thesis, TU Dortmund, in German, 2023)
 0. **Priorisierung von Antwortmengen mit Rangfunktionen, insbesondere auf Basis des Toleranzbegriffs** (Lars-Phillip Spiegel, Master thesis, TU Dortmund, in German, 2023)
 0. **c-Repräsentationen in LEG-Netzen mit positiven Impact-Werten** (Arthur Franke, Master thesis, TU Dortmund, in German, 2022)
