@@ -445,26 +445,27 @@ Germany\
    (exercises + tutorial, in German, winter term 2012/13)
 {: reversed="reversed"}
 
-## Co-Supervised Theses
+## (Co-)Supervised Theses
 
-0. **Antwortmengenprogrammierung mit Constraints: das clingcon System** (Lukas Gründer, Bachelor thesis, TU Dortmund, in German, 2025)  
-0. **Implementation and Evaluation of KLM-Style Defeasible Entailment and Explanation Algorithms** (Chipo Hamayobe, Master thesis, University of Cape Town, 2024)
-0. **Extraktion konditionaler Wissensbasen aus neuronalen Netzen** (Alexander Hahn, Master thesis, TU Dortmund, in German, 2023)
-0. **Priorisierung von Antwortmengen mit Rangfunktionen, insbesondere auf Basis des Toleranzbegriffs** (Lars-Phillip Spiegel, Master thesis, TU Dortmund, in German, 2023)
-0. **c-Repräsentationen in LEG-Netzen mit positiven Impact-Werten** (Arthur Franke, Master thesis, TU Dortmund, in German, 2022)
-0. **Induktives Lernen von ASP-Regeln mit Pruning** (Rabina Borici, Bachelor thesis, TU Dortmund, in German, 2022)
-0. **Algorithmic Computation of c-Representations in LEG-Networks** (Lorenzo Perez Veenstra, Master thesis, TU Dortmund, 2021)
-0. **ASP-Forgetting-Methoden für Rangfunktionen** (Patrick Miß, Bachelor thesis, TU Dortmund, in German, 2021)
-0. **Bestimmung der Äquivalenzklassen möglicher Welten mit Hilfe des Typed Model Countings** (Franz Leonhard Nentwich, Bachelor thesis, TU Dortmund, in German, 2018)
-0. **Revisionen von Rangfunktionen mit Meta-Informationen** (Christian Riest, Master thesis, TU Dortmund, in German, 2018)
-0. **Probabilistische Wissenskontraktion mit Hilfe von minimaler Relativentropie** (Arthur Franke, Bachelor thesis, TU Dortmund, in German, 2017)
-0. **Reaktive Antwortmengenprogrammierung - formale Eigenschaften und logistische Anwendung** (Jonas Philipp Haldimann, Bachelor thesis, TU Dortmund, in German, 2017)
-0. **Beschreibungslogische Ontologien für autonome Fahrzeuge in der Logistik** (Daniel Gadalla, Bachelor thesis, TU Dortmund, in German, 2017)
-0. **Wissensverarbeitung und Wissensrevision in der Only-Believing Logic** (Yannic Twardokus, Bachelor thesis, TU Dortmund, in German, 2016)
-0. **Berechnung minimaler c-Repräsentationen mittels ganzzahliger linearer Programmierung** (Sebastian Sewarte, Bachelor thesis, TU Dortmund, in German, 2016)
-0. **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Christian Riest, Bachelor thesis, TU Dortmund, in German, 2016)
-0. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Melissa Hennes, Master thesis, TU Dortmund, in German, 2015)
-0. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Jannis David Junge, Bachelor thesis, TU Dortmund, in German, 2015)
+0. **Transparente Aufgabenverteilung in der klinischen Pflege durch kontrastive Erklärungen in der Antwortmengenprogrammierung** (Bachelor thesis, TU Dortmund, in German, 2026) <!-- Michael Mann -->
+0. **Antwortmengenprogrammierung mit Constraints: das clingcon System** (Bachelor thesis, TU Dortmund, in German, 2025) <!-- Lukas Gründer -->
+0. **Implementation and Evaluation of KLM-Style Defeasible Entailment and Explanation Algorithms** (Master thesis, University of Cape Town, 2024) <!-- Chipo Hamayobe -->
+0. **Extraktion konditionaler Wissensbasen aus neuronalen Netzen** (Master thesis, TU Dortmund, in German, 2023) <!-- Alexander Hahn -->
+0. **Priorisierung von Antwortmengen mit Rangfunktionen, insbesondere auf Basis des Toleranzbegriffs** (Master thesis, TU Dortmund, in German, 2023) <!-- Lars-Phillip Spiegel -->
+0. **c-Repräsentationen in LEG-Netzen mit positiven Impact-Werten** (Master thesis, TU Dortmund, in German, 2022) <!-- Arthur Franke -->
+0. **Induktives Lernen von ASP-Regeln mit Pruning** (Bachelor thesis, TU Dortmund, in German, 2022) <!-- Rabina Borici -->
+0. **Algorithmic Computation of c-Representations in LEG-Networks** (Master thesis, TU Dortmund, 2021) <!-- Lorenzo Perez Veenstra -->
+0. **ASP-Forgetting-Methoden für Rangfunktionen** (Bachelor thesis, TU Dortmund, in German, 2021) <!-- Patrick Miß -->
+0. **Bestimmung der Äquivalenzklassen möglicher Welten mit Hilfe des Typed Model Countings** (Bachelor thesis, TU Dortmund, in German, 2018) <!-- Franz Leonhard Nentwich -->
+0. **Revisionen von Rangfunktionen mit Meta-Informationen** (Master thesis, TU Dortmund, in German, 2018) <!-- Christian Riest -->
+0. **Probabilistische Wissenskontraktion mit Hilfe von minimaler Relativentropie** (Bachelor thesis, TU Dortmund, in German, 2017) <!-- Arthur Franke -->
+0. **Reaktive Antwortmengenprogrammierung - formale Eigenschaften und logistische Anwendung** (Bachelor thesis, TU Dortmund, in German, 2017) <!-- Jonas Philipp Haldimann -->
+0. **Beschreibungslogische Ontologien für autonome Fahrzeuge in der Logistik** (Bachelor thesis, TU Dortmund, in German, 2017) <!-- Daniel Gadalla -->
+0. **Wissensverarbeitung und Wissensrevision in der Only-Believing Logic** (Bachelor thesis, TU Dortmund, in German, 2016) <!-- Yannic Twardokus -->
+0. **Berechnung minimaler c-Repräsentationen mittels ganzzahliger linearer Programmierung** (Bachelor thesis, TU Dortmund, in German, 2016) <!-- Sebastian Sewarte -->
+0. **Implementierung und Evaluation eines Algorithmus zur Klassifizierung von möglichen Welten bezüglich einer konditionalen Wissensbasis** (Bachelor thesis, TU Dortmund, in German, 2016) <!-- Christian Riest -->
+0. **Iterierte Wissensrevision für Aktionen im Situationskalkül** (Master thesis, TU Dortmund, in German, 2015) <!-- Melissa Hennes -->
+0. **Iterierte Wissensrevision auf totalen Quasiordnungen** (Bachelor thesis, TU Dortmund, in German, 2015) <!-- Jannis David Junge -->
 {: reversed="reversed"}
 
 ## Misc
