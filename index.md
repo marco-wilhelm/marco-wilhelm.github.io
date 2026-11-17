@@ -449,6 +449,7 @@ Germany\
 
 ## (Co-)Supervised Theses
 
+0. **Extraktion von Pflegeak4vitätsdaten aus MIMIC-III für die ASP-basierte Szenariomodellierung** (Bachelor thesis, TU Dortmund, in German, 2026) <!-- Vladimir Atanasov -->
 0. **Transparente Aufgabenverteilung in der klinischen Pflege durch kontrastive Erklärungen in der Antwortmengenprogrammierung** (Bachelor thesis, TU Dortmund, in German, 2026) <!-- Michael Mann -->
 0. **Antwortmengenprogrammierung mit Constraints: das clingcon System** (Bachelor thesis, TU Dortmund, in German, 2025) <!-- Lukas Gründer -->
 0. **Implementation and Evaluation of KLM-Style Defeasible Entailment and Explanation Algorithms** (Master thesis, University of Cape Town, 2024) <!-- Chipo Hamayobe -->
