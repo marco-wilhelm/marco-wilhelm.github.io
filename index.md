@@ -449,6 +449,7 @@ Germany\
 
 ## (Co-)Supervised Theses
 
+0. **Entwicklung und Bewertung KI-basierter Klassifikationsalgorithmen zur Vorhersage kritischer Ereignisse unter Berücksichtigung von Sensitivität und Spezifität** (Bachelor thesis, TU Dortmund, in German, 2026) <!-- Tim Mergel -->
 0. **Extraktion von Pflegeaktivitätsdaten aus MIMIC-III für die ASP-basierte Szenariomodellierung** (Bachelor thesis, TU Dortmund, in German, 2026) <!-- Vladimir Atanasov -->
 0. **Transparente Aufgabenverteilung in der klinischen Pflege durch kontrastive Erklärungen in der Antwortmengenprogrammierung** (Bachelor thesis, TU Dortmund, in German, 2026) <!-- Michael Mann -->
 0. **Antwortmengenprogrammierung mit Constraints: das clingcon System** (Bachelor thesis, TU Dortmund, in German, 2025) <!-- Lukas Gründer -->
